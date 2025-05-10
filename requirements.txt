@@ -1,0 +1,10 @@
+PyYAML
+Pillow
+requests
+instagrapi
+python-dotenv
+pytest
+python-telegram-bot
+stability-sdk
+replicate
+huggingface_hub
