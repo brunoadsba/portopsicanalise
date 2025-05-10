@@ -1,6 +1,6 @@
 import logging
 import time
-from typing import Optional, Any
+from typing import Optional, Any, Dict
 
 # Importar o modelo Content (pode ser necessário para obter informações da postagem)
 from ..models.content import Content 
