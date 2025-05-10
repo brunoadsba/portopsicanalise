@@ -1,0 +1,373 @@
+# Expansão da base de conhecimento para o sistema Porto Psicanálise Instagram
+
+conceitos:
+  - nome: "Transferência"
+    descricao_curta: "Projeção de sentimentos na relação terapêutica."
+    descricao: "A transferência é um fenômeno onde o paciente inconscientemente redireciona sentimentos e expectativas para o analista, baseados em figuras significativas de seu passado. É uma ferramenta essencial para a compreensão de padrões relacionais inconscientes."
+    categorias: ["conceitos_freudianos", "prática_clínica"]
+    palavras_chave: ["relação_terapêutica", "projeção", "inconsciente", "análise"]
+    citacoes:
+      - texto: "A transferência representa a mais poderosa resistência ao tratamento."
+        autor: "Sigmund Freud"
+        obra: "A Dinâmica da Transferência"
+        ano: 1912
+    perguntas:
+      - "Como os relacionamentos do seu passado podem estar influenciando suas relações atuais?"
+      - "Você já percebeu padrões repetitivos em suas relações?"
+    dicas:
+      - "Observe se suas reações emocionais parecem desproporcionais em certos relacionamentos."
+
+  - nome: "Contratransferência"
+    descricao_curta: "Reações do analista ao paciente."
+    descricao: "A contratransferência compreende as reações emocionais do analista em resposta ao paciente. Inicialmente vista como obstáculo, hoje é considerada ferramenta valiosa para compreender dinâmicas inconscientes do processo analítico."
+    categorias: ["prática_clínica", "conceitos_freudianos"]
+    palavras_chave: ["relação_terapêutica", "analista", "emoções", "inconsciente"]
+    citacoes:
+      - texto: "Nenhum analista vai além do que seus próprios complexos e resistências internas permitem."
+        autor: "Sigmund Freud"
+        obra: "Recomendações aos Médicos que Exercem a Psicanálise"
+        ano: 1912
+    perguntas:
+      - "Como podemos usar nossas reações emocionais como fonte de informação sobre o outro?"
+    dicas:
+      - "Para terapeutas: a autoanálise contínua é fundamental para distinguir entre emoções pessoais e respostas à dinâmica do paciente."
+
+  - nome: "Resistência"
+    descricao_curta: "Força que se opõe à consciência."
+    descricao: "A resistência é o conjunto de defesas psíquicas que se opõem ao processo de trazer conteúdos inconscientes à consciência durante o tratamento. Manifesta-se de diversas formas, como esquecimentos, atrasos, mudanças de assunto ou racionalização."
+    categorias: ["conceitos_freudianos", "prática_clínica"]
+    palavras_chave: ["defesa", "inconsciente", "consciência", "tratamento"]
+    citacoes:
+      - texto: "Tudo o que perturba a continuação do trabalho é uma resistência."
+        autor: "Sigmund Freud"
+        obra: "Inibições, Sintomas e Ansiedade"
+        ano: 1926
+    perguntas:
+      - "Quais são seus mecanismos internos que resistem à mudança?"
+      - "Como você reage quando confrontado com verdades desconfortáveis sobre si mesmo?"
+    dicas:
+      - "Acolher a resistência como parte natural do processo de autoconhecimento pode reduzir o sofrimento."
+
+  - nome: "Complexo de Electra"
+    descricao_curta: "Equivalente feminino do Complexo de Édipo."
+    descricao: "O Complexo de Electra, termo introduzido por Jung, descreve o apego da menina ao pai e rivalidade com a mãe durante o desenvolvimento psicossexual. Freud não utilizava este termo, preferindo incluir o desenvolvimento feminino como uma variação do Complexo de Édipo."
+    categorias: ["teoria_junguiana", "desenvolvimento"]
+    palavras_chave: ["infância", "desenvolvimento", "Jung", "família"]
+    citacoes:
+      - texto: "A menina se afasta da mãe em hostilidade por não ter lhe dado um pênis e se aproxima do pai como objeto de amor."
+        autor: "Sigmund Freud"
+        obra: "Algumas Consequências Psíquicas da Diferença Anatômica Entre os Sexos"
+        ano: 1925
+    perguntas:
+      - "Como sua relação com seus pais moldou sua visão sobre relacionamentos românticos?"
+    dicas:
+      - "Refletir sobre a relação com as figuras parentais pode trazer insights sobre escolhas de parceiros atuais."
+
+  - nome: "Arquétipos"
+    descricao_curta: "Imagens primordiais coletivas."
+    descricao: "Os arquétipos, conceito central na psicologia analítica de Jung, são padrões universais ou imagens primordiais derivadas do inconsciente coletivo. Funcionam como modelos para a experiência humana, manifestando-se em mitos, sonhos e expressões culturais através da história."
+    categorias: ["teoria_junguiana", "inconsciente_coletivo"]
+    palavras_chave: ["Jung", "símbolos", "inconsciente_coletivo", "mitos"]
+    citacoes:
+      - texto: "Os arquétipos são formas típicas de comportamento que, quando chegam à consciência, apresentam-se naturalmente como ideias e imagens."
+        autor: "Carl Jung"
+        obra: "Arquétipos do Inconsciente Coletivo"
+        ano: 1934
+    perguntas:
+      - "Quais figuras arquetípicas aparecem recorrentemente em seus sonhos ou fantasias?"
+    dicas:
+      - "Observar padrões recorrentes em sonhos pode revelar quais arquétipos estão ativos em sua psique."
+
+  - nome: "Libido"
+    descricao_curta: "Energia psíquica vital."
+    descricao: "Na teoria freudiana, a libido é a energia psíquica relacionada aos instintos de vida (Eros), particularmente à sexualidade em sentido amplo. Jung expandiu o conceito para uma energia psíquica geral que move todos os aspectos da psique, não apenas os sexuais."
+    categorias: ["conceitos_freudianos", "teoria_junguiana"]
+    palavras_chave: ["energia", "sexualidade", "instinto", "pulsão"]
+    citacoes:
+      - texto: "A libido é a energia que se manifesta no processo vital e é percebida subjetivamente como aspiração e desejo."
+        autor: "Carl Jung"
+        obra: "Símbolos da Transformação"
+        ano: 1912
+      - texto: "A teoria da libido deve ser considerada nossa maior conquista teórica."
+        autor: "Sigmund Freud"
+        obra: "Além do Princípio do Prazer"
+        ano: 1920
+    perguntas:
+      - "Como você direciona sua energia psíquica em diferentes áreas da sua vida?"
+    dicas:
+      - "A sublimação da libido através da criatividade e do trabalho intelectual pode ser um caminho produtivo para canalizar essa energia."
+
+  - nome: "Individuação"
+    descricao_curta: "Processo de tornar-se si mesmo."
+    descricao: "A individuação é o processo pelo qual o indivíduo se torna psicologicamente indivisível, uma totalidade integrada. Conceito central na psicologia analítica de Jung, representa o desenvolvimento psíquico em direção à realização do Self, integrando aspectos conscientes e inconscientes da personalidade."
+    categorias: ["teoria_junguiana", "desenvolvimento"]
+    palavras_chave: ["Self", "totalidade", "integração", "desenvolvimento_psíquico"]
+    citacoes:
+      - texto: "O objetivo da individuação é nada menos que despojar o self dos falsos envoltórios da persona e do poder sugestivo das imagens primordiais."
+        autor: "Carl Jung"
+        obra: "As Relações Entre o Ego e o Inconsciente"
+        ano: 1928
+    perguntas:
+      - "Quais aspectos de sua personalidade você tende a rejeitar ou esconder?"
+      - "Como você poderia integrar melhor as diferentes facetas de quem você é?"
+    dicas:
+      - "Acolher as partes sombrias de si mesmo é um passo importante no processo de individuação."
+
+  - nome: "Mecanismos de Defesa"
+    descricao_curta: "Estratégias psíquicas de proteção."
+    descricao: "Os mecanismos de defesa são estratégias psicológicas inconscientes utilizadas pelo ego para proteger-se de ansiedades, impulsos inaceitáveis ou realidades dolorosas. Incluem processos como repressão, projeção, negação, racionalização e sublimação, entre outros."
+    categorias: ["conceitos_freudianos", "ego"]
+    palavras_chave: ["defesa", "proteção", "inconsciente", "ansiedade"]
+    citacoes:
+      - texto: "O ego emprega vários procedimentos para cumprir sua tarefa, que pode ser descrita em termos gerais como evitar o perigo, a ansiedade e o desprazer."
+        autor: "Anna Freud"
+        obra: "O Ego e os Mecanismos de Defesa"
+        ano: 1936
+    perguntas:
+      - "Quais são seus mecanismos de defesa predominantes?"
+      - "Como suas defesas podem estar limitando seu crescimento pessoal?"
+    dicas:
+      - "Reconhecer seus mecanismos de defesa em ação é o primeiro passo para desenvolver respostas mais adaptativas."
+
+  - nome: "Sombra"
+    descricao_curta: "Aspectos negados da personalidade."
+    descricao: "A Sombra, conceito junguiano, representa os aspectos da personalidade que o indivíduo não reconhece em si mesmo e frequentemente projeta nos outros. Contém impulsos reprimidos, características indesejadas e potenciais não desenvolvidos."
+    categorias: ["teoria_junguiana", "inconsciente_pessoal"]
+    palavras_chave: ["projeção", "negação", "inconsciente", "integração"]
+    citacoes:
+      - texto: "A sombra é aquilo que uma pessoa não deseja ser."
+        autor: "Carl Jung"
+        obra: "Psicologia e Alquimia"
+        ano: 1944
+      - texto: "Todo mundo carrega uma sombra, e quanto menos ela está incorporada na vida consciente do indivíduo, mais escura e densa ela é."
+        autor: "Carl Jung"
+        obra: "Psicologia e Religião"
+        ano: 1938
+    perguntas:
+      - "O que mais te irrita nas outras pessoas pode ser um reflexo do quê em você?"
+      - "Quais aspectos de si mesmo você tem dificuldade em aceitar?"
+    dicas:
+      - "Prestar atenção a reações emocionais intensas a outras pessoas pode revelar projeções da própria sombra."
+
+  - nome: "Complexo"
+    descricao_curta: "Conjunto de ideias carregadas emocionalmente."
+    descricao: "Um complexo é um grupo de ideias ou imagens emocionalmente carregadas, parcial ou totalmente inconscientes. Organiza-se ao redor de um tema central e influencia o comportamento, frequentemente de maneira automática e não reconhecida."
+    categorias: ["teoria_junguiana", "inconsciente_pessoal"]
+    palavras_chave: ["emoção", "trauma", "padrão", "comportamento"]
+    citacoes:
+      - texto: "Os complexos são pontos nodais da vida psíquica que não podemos abolir sem destruir a psique."
+        autor: "Carl Jung"
+        obra: "A Natureza da Psique"
+        ano: 1946
+    perguntas:
+      - "Quais temas ou situações desencadeiam reações emocionais desproporcionais em você?"
+    dicas:
+      - "Quando uma situação gera uma reação emocional intensa e desproporcional, provavelmente tocou em um complexo."
+
+  - nome: "Anima/Animus"
+    descricao_curta: "Componentes contrassexuais na psique."
+    descricao: "Na teoria junguiana, a Anima representa o componente feminino inconsciente na psique masculina, enquanto o Animus representa o componente masculino inconsciente na psique feminina. São arquétipos que atuam como ponte para o inconsciente coletivo e influenciam as relações interpessoais."
+    categorias: ["teoria_junguiana", "arquétipos"]
+    palavras_chave: ["contrassexual", "projeção", "relacionamentos", "inconsciente"]
+    citacoes:
+      - texto: "A anima não é apenas a alma no sentido dogmático, nem uma anima rationalis, que é um conceito filosófico, mas sim um arquétipo natural que soma satisfatoriamente todas as afirmações do inconsciente, da mente primitiva, da história da linguagem e da religião."
+        autor: "Carl Jung"
+        obra: "Arquétipos e o Inconsciente Coletivo"
+        ano: 1934
+    perguntas:
+      - "Como os aspectos contrassexuais da sua personalidade se manifestam?"
+      - "De que forma suas escolhas amorosas refletem projeções da sua anima/animus?"
+    dicas:
+      - "Integrar aspectos da anima/animus pode levar a relacionamentos mais saudáveis e uma personalidade mais completa."
+
+  - nome: "Narcisismo"
+    descricao_curta: "Investimento libidinal no ego."
+    descricao: "O narcisismo refere-se ao investimento da libido no ego. Freud distinguiu entre narcisismo primário (normal no desenvolvimento infantil) e secundário (retirada da libido de objetos externos e redirecionamento para o ego). O conceito é fundamental para compreender tanto o desenvolvimento normal quanto patologias como o transtorno narcísico."
+    categorias: ["conceitos_freudianos", "desenvolvimento"]
+    palavras_chave: ["ego", "libido", "autoimagem", "patologia"]
+    citacoes:
+      - texto: "O narcisismo é o complemento libidinal do egoísmo do instinto de autopreservação."
+        autor: "Sigmund Freud"
+        obra: "Sobre o Narcisismo: Uma Introdução"
+        ano: 1914
+    perguntas:
+      - "Como você lida com críticas ou falhas pessoais?"
+      - "Que papel o reconhecimento externo desempenha na sua autoimagem?"
+    dicas:
+      - "Desenvolver autocompaixão e empatia pelos outros pode ajudar a equilibrar tendências narcísicas."
+
+  - nome: "Pulsão de Morte"
+    descricao_curta: "Tendência à destruição e retorno ao inorgânico."
+    descricao: "A pulsão de morte (Thanatos) é o conceito freudiano que descreve a tendência dos organismos vivos a retornar ao estado inorgânico. Manifesta-se como agressividade, autodestrutividade ou compulsão à repetição. Contrapõe-se à pulsão de vida (Eros)."
+    categorias: ["conceitos_freudianos", "pulsões"]
+    palavras_chave: ["Thanatos", "destrutividade", "agressão", "repetição"]
+    citacoes:
+      - texto: "Além do instinto para preservar a substância viva e juntá-la em unidades cada vez maiores, deveria haver um outro instinto contrário, que busca dissolver essas unidades e conduzi-las de volta ao seu estado primordial, inorgânico."
+        autor: "Sigmund Freud"
+        obra: "Além do Princípio do Prazer"
+        ano: 1920
+    perguntas:
+      - "Onde você percebe comportamentos autodestrutivos em sua vida?"
+      - "Como a agressividade se manifesta em você?"
+    dicas:
+      - "Reconhecer impulsos destrutivos é o primeiro passo para canalizá-los de maneira construtiva."
+
+  - nome: "Princípio de Realidade"
+    descricao_curta: "Adiamento da satisfação imediata."
+    descricao: "O princípio de realidade representa a capacidade psíquica de adiar a gratificação imediata (princípio de prazer) em favor de benefícios futuros, considerando as restrições da realidade externa. É uma função do ego que se desenvolve gradualmente durante a maturação psíquica."
+    categorias: ["conceitos_freudianos", "ego"]
+    palavras_chave: ["gratificação", "adiamento", "maturidade", "ego"]
+    citacoes:
+      - texto: "O princípio de realidade não abandona a intenção de obter prazer, mas exige e efetua o adiamento da satisfação, a renúncia a várias possibilidades desta e a aceitação temporária do desprazer, num longo desvio para o prazer."
+        autor: "Sigmund Freud"
+        obra: "Formulações sobre os Dois Princípios do Funcionamento Mental"
+        ano: 1911
+    perguntas:
+      - "Como você equilibra a busca de gratificação imediata com objetivos de longo prazo?"
+      - "Em quais áreas da vida você tem mais dificuldade em adiar a gratificação?"
+    dicas:
+      - "Desenvolver a capacidade de tolerar a frustração é essencial para o amadurecimento psíquico."
+
+  - nome: "Sublimação"
+    descricao_curta: "Redirecionamento de impulsos para fins socialmente valorizados."
+    descricao: "A sublimação é um mecanismo de defesa maduro onde impulsos instintivos potencialmente problemáticos são redirecionados para atividades socialmente aceitas e valorizadas. Freud considerava a sublimação essencial para o desenvolvimento cultural e civilizatório."
+    categorias: ["conceitos_freudianos", "mecanismos_de_defesa"]
+    palavras_chave: ["criatividade", "cultura", "impulsos", "adaptação"]
+    citacoes:
+      - texto: "A sublimação do instinto é um aspecto particularmente evidente do desenvolvimento cultural; é ela que torna possível às atividades psíquicas superiores, científicas, artísticas ou ideológicas, desempenharem um papel tão importante na vida civilizada."
+        autor: "Sigmund Freud"
+        obra: "O Mal-Estar na Civilização"
+        ano: 1930
+    perguntas:
+      - "Como você canaliza seus impulsos primitivos em atividades construtivas?"
+      - "Que formas de expressão criativa ressoam mais com você?"
+    dicas:
+      - "Encontrar canais criativos para expressar impulsos pode ser terapêutico e produtivo."
+
+  - nome: "Attachment (Apego)"
+    descricao_curta: "Vínculo emocional entre indivíduos."
+    descricao: "A teoria do apego, desenvolvida por John Bowlby e expandida por Mary Ainsworth, descreve o vínculo emocional entre criança e cuidador. Estabelece que os padrões de apego formados na infância influenciam significativamente os relacionamentos e a saúde mental ao longo da vida."
+    categorias: ["desenvolvimento", "vinculação"]
+    palavras_chave: ["vínculo", "relacionamentos", "infância", "segurança"]
+    citacoes:
+      - texto: "O comportamento de apego é qualquer forma de comportamento que resulta em uma pessoa alcançar ou manter proximidade com algum outro indivíduo claramente identificado, considerado mais apto para lidar com o mundo."
+        autor: "John Bowlby"
+        obra: "Apego e Perda, Vol. 1: Apego"
+        ano: 1969
+    perguntas:
+      - "Qual é seu estilo predominante de apego nas relações íntimas?"
+      - "Como suas experiências precoces moldaram sua capacidade de formar vínculos seguros?"
+    dicas:
+      - "Reconhecer seu estilo de apego pode ajudar a desenvolver relacionamentos mais saudáveis."
+
+  - nome: "Holding"
+    descricao_curta: "Sustentação emocional no desenvolvimento."
+    descricao: "Conceito winnicottiano que se refere ao suporte físico e emocional proporcionado pelo ambiente (principalmente a mãe) à criança em desenvolvimento. O holding adequado permite que o bebê desenvolva um sentido integrado de self e capacidade para estar sozinho."
+    categorias: ["winnicott", "desenvolvimento"]
+    palavras_chave: ["cuidado", "maternagem", "ambiente", "integração"]
+    citacoes:
+      - texto: "Holding é uma forma do amor se expressar. Segurar uma criança adequadamente é acompanhar o movimento de seus braços e pernas, e isso significa que a criança está descobrindo o seu ritmo pessoal."
+        autor: "Donald Winnicott"
+        obra: "Os Bebês e suas Mães"
+        ano: 1987
+    perguntas:
+      - "Como você experimenta a necessidade de holding emocional na vida adulta?"
+      - "Que ambientes ou pessoas proporcionam a você uma sensação de sustentação emocional?"
+    dicas:
+      - "Criar espaços seguros para si mesmo pode replicar a função do holding na vida adulta."
+
+  - nome: "Self Verdadeiro e Falso"
+    descricao_curta: "Expressões autênticas versus adaptativas do self."
+    descricao: "Winnicott distinguiu entre o self verdadeiro (espontâneo, criativo, sentido como real) e o falso self (defensivo, complacente, adaptado excessivamente às expectativas externas). O falso self desenvolve-se quando o ambiente falha em responder adequadamente às necessidades da criança."
+    categorias: ["winnicott", "desenvolvimento"]
+    palavras_chave: ["autenticidade", "adaptação", "desenvolvimento", "defesa"]
+    citacoes:
+      - texto: "O self verdadeiro vem da vitalidade dos tecidos corporais e da atuação das funções do corpo, incluindo a ação do coração e a respiração."
+        autor: "Donald Winnicott"
+        obra: "Distorção do Ego em Termos de Self Verdadeiro e Falso"
+        ano: 1960
+    perguntas:
+      - "Em quais situações você se sente mais autêntico versus quando se sente 'representando um papel'?"
+      - "Como você reconhece a diferença entre suas respostas genuínas e aquelas que são meras adaptações?"
+    dicas:
+      - "Momentos de espontaneidade e criatividade são expressões do self verdadeiro."
+
+  - nome: "Espaço Potencial"
+    descricao_curta: "Área intermediária da experiência."
+    descricao: "O espaço potencial, conceito winnicottiano, é a área intermediária de experiência entre o mundo interno subjetivo e a realidade externa compartilhada. É onde ocorrem o brincar, a experiência cultural e a criatividade, sendo fundamental para o desenvolvimento saudável."
+    categorias: ["winnicott", "criatividade"]
+    palavras_chave: ["transicional", "criatividade", "brincar", "cultura"]
+    citacoes:
+      - texto: "É no brincar, e somente no brincar, que o indivíduo, criança ou adulto, pode ser criativo e utilizar sua personalidade integral: e é somente sendo criativo que o indivíduo descobre o eu (self)."
+        autor: "Donald Winnicott"
+        obra: "O Brincar e a Realidade"
+        ano: 1971
+    perguntas:
+      - "Como você cultiva espaços de criatividade e brincadeira em sua vida adulta?"
+      - "Onde você encontra maior liberdade para expressar sua imaginação?"
+    dicas:
+      - "Reservar tempo para atividades sem propósito definido pode nutrir o espaço potencial e a criatividade."
+
+  - nome: "Repetição Compulsiva"
+    descricao_curta: "Padrão inconsciente de repetição."
+    descricao: "A compulsão à repetição é um processo psicológico inconsciente em que o indivíduo repete situações traumáticas ou dolorosas do passado. Freud identificou esse fenômeno como manifestação da pulsão de morte e tentativa do aparelho psíquico de elaborar experiências não processadas."
+    categorias: ["conceitos_freudianos", "trauma"]
+    palavras_chave: ["trauma", "padrão", "inconsciente", "elaboração"]
+    citacoes:
+      - texto: "O paciente não recorda nada do que esqueceu e reprimiu, mas expressa-o pela atuação. Ele o reproduz não como lembrança, mas como ação; repete-o, sem saber que o está repetindo."
+        autor: "Sigmund Freud"
+        obra: "Recordar, Repetir e Elaborar"
+        ano: 1914
+    perguntas:
+      - "Quais padrões você percebe repetindo em diferentes relacionamentos ao longo da vida?"
+      - "Como situações dolorosas do seu passado podem estar influenciando suas escolhas atuais?"
+    dicas:
+      - "Reconhecer padrões repetitivos é o primeiro passo para interromper ciclos disfuncionais."
+
+  - nome: "Objeto Transicional"
+    descricao_curta: "Primeira possessão 'não-eu' da criança."
+    descricao: "O objeto transicional, conceito de Winnicott, é a primeira possessão 'não-eu' da criança (como um cobertor ou ursinho) que representa a transição do estado de fusão com a mãe para o relacionamento com objetos externos. Ajuda a criança a negociar separação e independência."
+    categorias: ["winnicott", "desenvolvimento"]
+    palavras_chave: ["transição", "separação", "apego", "desenvolvimento"]
+    citacoes:
+      - texto: "O objeto transicional representa a transição do bebê de um estado de estar fundido com a mãe para um estado de relacionamento com ela como algo externo e separado."
+        autor: "Donald Winnicott"
+        obra: "Objetos Transicionais e Fenômenos Transicionais"
+        ano: 1953
+    perguntas:
+      - "Você tinha algum objeto de apego especial na infância?"
+      - "Quais 'objetos transicionais' você utiliza na vida adulta para lidar com a separação ou ansiedade?"
+    dicas:
+      - "Mesmo na vida adulta, certos objetos ou rituais podem servir como fontes de conforto em momentos de transição."
+
+  - nome: "Projeção"
+    descricao_curta: "Atribuição a outros de características próprias."
+    descricao: "A projeção é um mecanismo de defesa pelo qual o indivíduo atribui a outras pessoas qualidades, sentimentos, desejos ou objetos que se originam em si mesmo, mas são inaceitáveis para o ego. É particularmente importante na formação da sombra junguiana e em fenômenos paranoides."
+    categorias: ["mecanismos_de_defesa", "teoria_junguiana"]
+    palavras_chave: ["defesa", "sombra", "inconsciente", "atribuição"]
+    citacoes:
+      - texto: "O que negamos em nós mesmos, terminamos por encontrar nos outros. Que conveniente coincidência!"
+        autor: "Carl Jung"
+        obra: "Psicologia e Religião"
+        ano: 1938
+    perguntas:
+      - "Quais qualidades ou características você tende a criticar fortemente nos outros?"
+      - "Como suas críticas aos outros podem refletir aspectos não reconhecidos de si mesmo?"
+    dicas:
+      - "Quando algo te incomoda intensamente em outra pessoa, pergunte-se se há algum aspecto desse comportamento em você mesmo."
+
+  - nome: "Introjeção"
+    descricao_curta: "Incorporação de características externas."
+    descricao: "A introjeção é um processo psicológico pelo qual o indivíduo incorpora no seu ego características, atitudes ou qualidades de outras pessoas significativas, especialmente figuras parentais. É fundamental na formação do superego e na internalização de normas sociais."
+    categorias: ["mecanismos_de_defesa", "desenvolvimento"]
+    palavras_chave: ["internalização", "identificação", "ego", "superego"]
+    citacoes:
+      - texto: "O superego é o herdeiro do complexo de Édipo, formando-se pela introjeção das figuras parentais no ego."
+        autor: "Sigmund Freud"
+        obra: "O Ego e o Id"
+        ano: 1923
+    perguntas:
+      - "Quais valores ou crenças você adotou de figuras importantes em sua vida?"
+      - "Como você distingue entre seus próprios desejos e expectativas internalizadas dos outros?"
+    dicas:
+      - "Questionar a origem de suas crenças e valores pode ajudar a identificar introjeções limitantes."

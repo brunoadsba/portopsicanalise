@@ -1,0 +1,37 @@
+# config/config.yaml
+# Configuração mínima para o sistema Porto Psicanálise Instagram
+
+# Configurações de Logging
+logging:
+  level: "INFO" # Níveis: DEBUG, INFO, WARNING, ERROR, CRITICAL
+  file: "logs/system.log" # Caminho relativo à raiz do projeto
+  # max_size: 10485760  # 10MB (opcional, para rotação de logs)
+  # backup_count: 5    # (opcional, para rotação de logs)
+
+# Configurações do Agente Criador
+creator:
+  templates_dir: "assets/templates"     # Caminho relativo à raiz do projeto
+  output_dir: "output/images"           # Caminho relativo à raiz do projeto
+  knowledge_base: "config/knowledge_base.yaml" # Caminho relativo à raiz do projeto
+  # image_generation: (configurações de IA podem ser adicionadas depois)
+  #   enabled: false
+  #   provider: "stability_ai"
+  #   api_key: "ENV_STABILITY_KEY" # Buscar de variável de ambiente
+
+# Configurações do Instagram (para Agente Postador)
+instagram:
+  username: "SEU_USUARIO_INSTAGRAM" # Substituir ou carregar de .env
+  password: "SUA_SENHA_INSTAGRAM"   # Substituir ou carregar de .env (NÃO FAÇA COMMIT COM SENHAS REAIS)
+  session_file: "data/session.json" # Caminho relativo à raiz do projeto, pasta 'data' precisa existir
+
+# Configurações do Agente Supervisor
+supervisor:
+  check_delay: 300 # segundos após postagem para verificar (exemplo)
+  metrics:
+    collect: true
+    store_path: "data/metrics.db" # Caminho relativo à raiz do projeto, pasta 'data' precisa existir
+  notifications:
+    email: "" # "seu_email@exemplo.com"
+    webhook: ""
+    # telegram_token: "ENV_TELEGRAM_TOKEN" # Buscar de variável de ambiente
+    # telegram_chat_id: "SEU_CHAT_ID"    # Buscar de variável de ambiente

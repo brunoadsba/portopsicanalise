@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+*.venv
+env/
+ENV/
+
+# Arquivos de configuração de IDEs e editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+logs/
+*.log
+
+# Dados de sessão e métricas
+data/
+
+# Arquivos de ambiente
+.env
+
+# Saída de testes e cobertura
+htmlcov/
+.coverage
+*.cover
+.pytest_cache/
+
+# Arquivos de build e distribuição
+build/
+dist/
+*.egg-info/
