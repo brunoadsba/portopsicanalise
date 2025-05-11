@@ -1,373 +1,706 @@
-# Expansão da base de conhecimento para o sistema Porto Psicanálise Instagram
+# Base de conhecimento reformulada para o Instagram da Porto Psicanálise (Público Geral)
 
 conceitos:
-  - nome: "Transferência"
-    descricao_curta: "Projeção de sentimentos na relação terapêutica."
-    descricao: "A transferência é um fenômeno onde o paciente inconscientemente redireciona sentimentos e expectativas para o analista, baseados em figuras significativas de seu passado. É uma ferramenta essencial para a compreensão de padrões relacionais inconscientes."
-    categorias: ["conceitos_freudianos", "prática_clínica"]
-    palavras_chave: ["relação_terapêutica", "projeção", "inconsciente", "análise"]
+  - nome: "Seus Ecos do Passado"
+    descricao_curta: "Como o passado vive em você e nas suas relações hoje."
+    descricao: "Já sentiu que reage a alguém de um jeito que não faz sentido? Ou que padrões de relacionamento se repetem? Isso pode ser o 'eco' de experiências antigas, vivendo nas suas relações atuais. Entender esses ecos é um caminho poderoso para o autoconhecimento e para construir conexões mais leves e reais hoje."
+    categorias: ["relacionamentos", "autoconhecimento", "crescimento"]
+    palavras_chave: ["passado", "padrões", "relações", "cura"]
     citacoes:
-      - texto: "A transferência representa a mais poderosa resistência ao tratamento."
-        autor: "Sigmund Freud"
-        obra: "A Dinâmica da Transferência"
-        ano: 1912
+      - texto: "O passado é um sussurro no presente. Ouça com carinho."
+        autor: "Porto Psicanálise"
+        obra: null
+        ano: null
     perguntas:
-      - "Como os relacionamentos do seu passado podem estar influenciando suas relações atuais?"
-      - "Você já percebeu padrões repetitivos em suas relações?"
+      - "Quais 'dejà vus' emocionais aparecem nas suas amizades ou amores?"
+      - "Como as histórias da sua infância moldam quem você busca ser hoje?"
     dicas:
-      - "Observe se suas reações emocionais parecem desproporcionais em certos relacionamentos."
+      - "Observe suas reações intensas. Elas são convites para entender o que o passado ainda te conta."
 
-  - nome: "Contratransferência"
-    descricao_curta: "Reações do analista ao paciente."
-    descricao: "A contratransferência compreende as reações emocionais do analista em resposta ao paciente. Inicialmente vista como obstáculo, hoje é considerada ferramenta valiosa para compreender dinâmicas inconscientes do processo analítico."
-    categorias: ["prática_clínica", "conceitos_freudianos"]
-    palavras_chave: ["relação_terapêutica", "analista", "emoções", "inconsciente"]
+  - nome: "O Espelho das Emoções"
+    descricao_curta: "O que as emoções dos outros te ensinam sobre você."
+    descricao: "Às vezes, a reação de alguém às suas ações te surpreende. Sabia que as emoções que você desperta no outro podem dizer algo sobre a dinâmica entre vocês, e até sobre você mesmo? Prestar atenção a esse 'espelho' emocional é uma forma de melhorar a comunicação e fortalecer vínculos com mais verdade."
+    categorias: ["relacionamentos", "comunicação", "empatia"]
+    palavras_chave: ["emoções", "comunicação", "vínculos", "entendimento"]
     citacoes:
-      - texto: "Nenhum analista vai além do que seus próprios complexos e resistências internas permitem."
-        autor: "Sigmund Freud"
-        obra: "Recomendações aos Médicos que Exercem a Psicanálise"
-        ano: 1912
+      - texto: "Nossas emoções conectam mundos. Observe as pontes que você constrói."
+        autor: "Porto Psicanálise"
+        obra: null
+        ano: null
     perguntas:
-      - "Como podemos usar nossas reações emocionais como fonte de informação sobre o outro?"
+      - "A reação inesperada de alguém já te fez parar para pensar?"
+      - "O que as emoções ao seu redor revelam sobre o espaço que você ocupa?"
     dicas:
-      - "Para terapeutas: a autoanálise contínua é fundamental para distinguir entre emoções pessoais e respostas à dinâmica do paciente."
+      - "Aproxime-se da forma como você afeta os outros com curiosidade, não julgamento."
 
-  - nome: "Resistência"
-    descricao_curta: "Força que se opõe à consciência."
-    descricao: "A resistência é o conjunto de defesas psíquicas que se opõem ao processo de trazer conteúdos inconscientes à consciência durante o tratamento. Manifesta-se de diversas formas, como esquecimentos, atrasos, mudanças de assunto ou racionalização."
-    categorias: ["conceitos_freudianos", "prática_clínica"]
-    palavras_chave: ["defesa", "inconsciente", "consciência", "tratamento"]
+  - nome: "Abraçando a Mudança"
+    descricao_curta: "A beleza e o desafio de crescer e mudar."
+    descricao: "Mudar dá medo, né? E encarar verdades sobre nós mesmos pode ser desconfortável. Essa 'resistência' interna é natural, um sinal de que algo novo está querendo nascer. Acolher essa dificuldade, sem fugir, é o primeiro passo para um crescimento pessoal profundo e libertador. Você não precisa ter pressa, apenas coragem para dar o próximo passo."
+    categorias: ["crescimento_pessoal", "superação", "autocuidado"]
+    palavras_chave: ["mudança", "crescimento", "desafios", "aceitação"]
     citacoes:
-      - texto: "Tudo o que perturba a continuação do trabalho é uma resistência."
-        autor: "Sigmund Freud"
-        obra: "Inibições, Sintomas e Ansiedade"
-        ano: 1926
+      - texto: "Resistir é humano, mas florescer é a sua essência."
+        autor: "Porto Psicanálise"
+        obra: null
+        ano: null
     perguntas:
-      - "Quais são seus mecanismos internos que resistem à mudança?"
-      - "Como você reage quando confrontado com verdades desconfortáveis sobre si mesmo?"
+      - "Qual pequena mudança na sua vida você tem adiado começar?"
+      - "O que aconteceria se você acolhesse o medo de mudar, em vez de fugir dele?"
     dicas:
-      - "Acolher a resistência como parte natural do processo de autoconhecimento pode reduzir o sofrimento."
+      - "Comece com um passo minúsculo. O movimento é mais importante que a velocidade."
 
-  - nome: "Complexo de Electra"
-    descricao_curta: "Equivalente feminino do Complexo de Édipo."
-    descricao: "O Complexo de Electra, termo introduzido por Jung, descreve o apego da menina ao pai e rivalidade com a mãe durante o desenvolvimento psicossexual. Freud não utilizava este termo, preferindo incluir o desenvolvimento feminino como uma variação do Complexo de Édipo."
-    categorias: ["teoria_junguiana", "desenvolvimento"]
-    palavras_chave: ["infância", "desenvolvimento", "Jung", "família"]
+  - nome: "As Primeiras Histórias de Amor"
+    descricao_curta: "Como a infância molda seus afetos hoje."
+    descricao: "Nossas primeiras e mais importantes histórias de amor são vividas na infância, muitas vezes dentro de casa. A forma como nos relacionamos com nossos pais ou cuidadores nesses primeiros anos deixa marcas que podem ecoar nos relacionamentos adultos. Entender essas histórias é um convite para amar e se conectar de formas mais saudáveis e conscientes hoje."
+    categorias: ["relacionamentos", "infância", "afeto"]
+    palavras_chave: ["infância", "pais", "relações", "vínculos"]
     citacoes:
-      - texto: "A menina se afasta da mãe em hostilidade por não ter lhe dado um pênis e se aproxima do pai como objeto de amor."
-        autor: "Sigmund Freud"
-        obra: "Algumas Consequências Psíquicas da Diferença Anatômica Entre os Sexos"
-        ano: 1925
+      - texto: "Nossos primeiros vínculos são sementes para o jardim da vida adulta."
+        autor: "Porto Psicanálise"
+        obra: null
+        ano: null
     perguntas:
-      - "Como sua relação com seus pais moldou sua visão sobre relacionamentos românticos?"
+      - "Que lições de amor e conexão você aprendeu na sua primeira casa?"
+      - "Você percebe algo dos seus pais nos seus parceiros ou amigos hoje?"
     dicas:
-      - "Refletir sobre a relação com as figuras parentais pode trazer insights sobre escolhas de parceiros atuais."
+      - "Reflita com carinho sobre suas memórias de infância. Elas contam histórias importantes sobre quem você ama hoje."
 
-  - nome: "Arquétipos"
-    descricao_curta: "Imagens primordiais coletivas."
-    descricao: "Os arquétipos, conceito central na psicologia analítica de Jung, são padrões universais ou imagens primordiais derivadas do inconsciente coletivo. Funcionam como modelos para a experiência humana, manifestando-se em mitos, sonhos e expressões culturais através da história."
-    categorias: ["teoria_junguiana", "inconsciente_coletivo"]
-    palavras_chave: ["Jung", "símbolos", "inconsciente_coletivo", "mitos"]
+  - nome: "Os Mapas da Alma"
+    descricao_curta: "Símbolos universais que falam ao seu coração."
+    descricao: "Heróis, mães, sábios... Esses 'personagens' universais aparecem em histórias antigas, nos seus sonhos e até nos filmes que você ama. Eles são como 'mapas' simbólicos da alma humana, cheios de significado. Prestar atenção a esses símbolos na sua vida pode revelar mensagens profundas sobre seus desejos e medos, guiando sua jornada de autodescoberta."
+    categorias: ["autoconhecimento", "sonhos", "simbolismo"]
+    palavras_chave: ["símbolos", "sonhos", "mitos", "psique"]
     citacoes:
-      - texto: "Os arquétipos são formas típicas de comportamento que, quando chegam à consciência, apresentam-se naturalmente como ideias e imagens."
-        autor: "Carl Jung"
-        obra: "Arquétipos do Inconsciente Coletivo"
-        ano: 1934
+      - texto: "Em cada símbolo, um convite para se encontrar."
+        autor: "Porto Psicanálise"
+        obra: null
+        ano: null
     perguntas:
-      - "Quais figuras arquetípicas aparecem recorrentemente em seus sonhos ou fantasias?"
+      - "Qual história, personagem ou símbolo mexe com você no fundo da alma?"
+      - "Se sua vida fosse um filme, quais 'personagens' universais estariam nele?"
     dicas:
-      - "Observar padrões recorrentes em sonhos pode revelar quais arquétipos estão ativos em sua psique."
+      - "Anote seus sonhos! Eles são um tesouro de símbolos esperando para serem explorados."
 
-  - nome: "Libido"
-    descricao_curta: "Energia psíquica vital."
-    descricao: "Na teoria freudiana, a libido é a energia psíquica relacionada aos instintos de vida (Eros), particularmente à sexualidade em sentido amplo. Jung expandiu o conceito para uma energia psíquica geral que move todos os aspectos da psique, não apenas os sexuais."
-    categorias: ["conceitos_freudianos", "teoria_junguiana"]
-    palavras_chave: ["energia", "sexualidade", "instinto", "pulsão"]
+  - nome: "Sua Energia Vital"
+    descricao_curta: "A força que te move por dentro e impulsiona sua vida."
+    descricao: "Existe uma energia poderosa dentro de você, que não é só sobre paixão, mas sobre tudo que te impulsiona: criar, trabalhar, amar, viver! Essa 'libido' é o combustível da sua existência. Aprender a reconhecer e direcionar essa energia de forma consciente te ajuda a florescer em todas as áreas da vida e a construir a realidade que você deseja."
+    categorias: ["energia", "motivação", "criação"]
+    palavras_chave: ["energia", "desejo", "motivação", "paixão"]
     citacoes:
-      - texto: "A libido é a energia que se manifesta no processo vital e é percebida subjetivamente como aspiração e desejo."
-        autor: "Carl Jung"
-        obra: "Símbolos da Transformação"
-        ano: 1912
-      - texto: "A teoria da libido deve ser considerada nossa maior conquista teórica."
-        autor: "Sigmund Freud"
-        obra: "Além do Princípio do Prazer"
-        ano: 1920
+      - texto: "Sua energia vital é a melodia da sua alma. Deixe-a tocar!"
+        autor: "Porto Psicanálise"
+        obra: null
+        ano: null
     perguntas:
-      - "Como você direciona sua energia psíquica em diferentes áreas da sua vida?"
+      - "No que você investe a sua energia mais preciosa hoje?"
+      - "Como você pode canalizar seus desejos para criar algo belo no mundo?"
     dicas:
-      - "A sublimação da libido através da criatividade e do trabalho intelectual pode ser um caminho produtivo para canalizar essa energia."
+      - "Encontre atividades que acendem sua alma! Elas são pistas de onde sua energia quer fluir."
 
-  - nome: "Individuação"
-    descricao_curta: "Processo de tornar-se si mesmo."
-    descricao: "A individuação é o processo pelo qual o indivíduo se torna psicologicamente indivisível, uma totalidade integrada. Conceito central na psicologia analítica de Jung, representa o desenvolvimento psíquico em direção à realização do Self, integrando aspectos conscientes e inconscientes da personalidade."
-    categorias: ["teoria_junguiana", "desenvolvimento"]
-    palavras_chave: ["Self", "totalidade", "integração", "desenvolvimento_psíquico"]
+  - nome: "A Jornada de Ser Você"
+    descricao_curta: "A arte de unir todas as suas partes e florescer."
+    descricao: "Ser você mesmo é uma jornada! Significa abraçar todas as suas partes – as que você ama e as que te desafiam – e uni-las com carinho. Esse processo de 'individuação' é sobre se tornar a versão mais autêntica, completa e feliz de quem você nasceu para ser. É um caminho contínuo de autoconhecimento, aceitação e muita coragem."
+    categorias: ["autoconhecimento", "autenticidade", "crescimento_pessoal"]
+    palavras_chave: ["autenticidade", "integração", "crescimento", "você"]
     citacoes:
-      - texto: "O objetivo da individuação é nada menos que despojar o self dos falsos envoltórios da persona e do poder sugestivo das imagens primordiais."
-        autor: "Carl Jung"
-        obra: "As Relações Entre o Ego e o Inconsciente"
-        ano: 1928
+      - texto: "Florescer é a arte de ser inteiramente você."
+        autor: "Porto Psicanálise"
+        obra: null
+        ano: null
     perguntas:
-      - "Quais aspectos de sua personalidade você tende a rejeitar ou esconder?"
-      - "Como você poderia integrar melhor as diferentes facetas de quem você é?"
+      - "Quais partes de você você ainda esconde ou tenta mudar?"
+      - "O que o seu coração sussurra sobre quem você realmente é?"
     dicas:
-      - "Acolher as partes sombrias de si mesmo é um passo importante no processo de individuação."
+      - "Celebre suas imperfeições! Elas fazem parte da sua beleza única."
 
-  - nome: "Mecanismos de Defesa"
-    descricao_curta: "Estratégias psíquicas de proteção."
-    descricao: "Os mecanismos de defesa são estratégias psicológicas inconscientes utilizadas pelo ego para proteger-se de ansiedades, impulsos inaceitáveis ou realidades dolorosas. Incluem processos como repressão, projeção, negação, racionalização e sublimação, entre outros."
-    categorias: ["conceitos_freudianos", "ego"]
-    palavras_chave: ["defesa", "proteção", "inconsciente", "ansiedade"]
+  - nome: "Seus Escudos Emocionais"
+    descricao_curta: "As formas inconscientes de se proteger das dores da alma."
+    descricao: "Sabe aquelas 'muralhas' que você constrói sem perceber? Elas são formas da sua mente te proteger de sentimentos difíceis, como ansiedade ou medo. Esses 'mecanismos de defesa' são estratégias automáticas, como evitar falar de algo, rir de nervoso ou focar só no trabalho. Reconhecê-los é o primeiro passo para se sentir seguro para abaixar alguns escudos e se conectar mais com a vida."
+    categorias: ["emoções", "autoproteção", "autoconhecimento"]
+    palavras_chave: ["defesas", "emoções", "proteção", "inconsciente"]
     citacoes:
-      - texto: "O ego emprega vários procedimentos para cumprir sua tarefa, que pode ser descrita em termos gerais como evitar o perigo, a ansiedade e o desprazer."
-        autor: "Anna Freud"
-        obra: "O Ego e os Mecanismos de Defesa"
-        ano: 1936
+      - texto: "Seus escudos te protegeram no passado. Agora, explore o que acontece quando você permite sentir."
+        autor: "Porto Psicanálise"
+        obra: null
+        ano: null
     perguntas:
-      - "Quais são seus mecanismos de defesa predominantes?"
-      - "Como suas defesas podem estar limitando seu crescimento pessoal?"
+      - "Como você costuma reagir quando se sente ameaçado ou vulnerável?"
+      - "Qual sentimento você mais tenta evitar sentir?"
     dicas:
-      - "Reconhecer seus mecanismos de defesa em ação é o primeiro passo para desenvolver respostas mais adaptativas."
+      - "Observe suas reações automáticas em momentos de estresse. Elas são pistas dos seus escudos."
 
-  - nome: "Sombra"
-    descricao_curta: "Aspectos negados da personalidade."
-    descricao: "A Sombra, conceito junguiano, representa os aspectos da personalidade que o indivíduo não reconhece em si mesmo e frequentemente projeta nos outros. Contém impulsos reprimidos, características indesejadas e potenciais não desenvolvidos."
-    categorias: ["teoria_junguiana", "inconsciente_pessoal"]
-    palavras_chave: ["projeção", "negação", "inconsciente", "integração"]
+  - nome: "Abraçando Sua Sombra"
+    descricao_curta: "As partes de você que você ainda não ama ou não reconhece."
+    descricao: "Todos nós temos uma 'sombra' – aquelas partes que escondemos, negamos ou julgamos em nós mesmos, por medo, vergonha ou simplesmente porque não queremos vê-las. Pode ser um lado impaciente, um desejo 'proibido', ou uma característica que você projeta nos outros. Trazer essa sombra para a luz, com compaixão, é essencial para a cura e para se sentir inteiro."
+    categorias: ["autoconhecimento", "aceitação", "integração"]
+    palavras_chave: ["sombra", "negação", "aceitação", "inconsciente"]
     citacoes:
-      - texto: "A sombra é aquilo que uma pessoa não deseja ser."
-        autor: "Carl Jung"
-        obra: "Psicologia e Alquimia"
-        ano: 1944
-      - texto: "Todo mundo carrega uma sombra, e quanto menos ela está incorporada na vida consciente do indivíduo, mais escura e densa ela é."
-        autor: "Carl Jung"
-        obra: "Psicologia e Religião"
-        ano: 1938
+      - texto: "Sua sombra não te diminui; te torna mais humano e completo."
+        autor: "Porto Psicanálise"
+        obra: null
+        ano: null
     perguntas:
-      - "O que mais te irrita nas outras pessoas pode ser um reflexo do quê em você?"
-      - "Quais aspectos de si mesmo você tem dificuldade em aceitar?"
+      - "Qual característica em outra pessoa te irrita profundamente?"
+      - "Qual lado seu você ainda não se permite mostrar para o mundo?"
     dicas:
-      - "Prestar atenção a reações emocionais intensas a outras pessoas pode revelar projeções da própria sombra."
+      - "O que te incomoda nos outros pode ser um convite para olhar para sua própria sombra com gentileza."
 
-  - nome: "Complexo"
-    descricao_curta: "Conjunto de ideias carregadas emocionalmente."
-    descricao: "Um complexo é um grupo de ideias ou imagens emocionalmente carregadas, parcial ou totalmente inconscientes. Organiza-se ao redor de um tema central e influencia o comportamento, frequentemente de maneira automática e não reconhecida."
-    categorias: ["teoria_junguiana", "inconsciente_pessoal"]
-    palavras_chave: ["emoção", "trauma", "padrão", "comportamento"]
+  - nome: "Os 'Botões' Emocionais"
+    descricao_curta: "Padrões que, quando 'apertados', disparam suas reações."
+    descricao: "Já se sentiu explodir por algo pequeno? Ou ter uma reação 'exagerada' que você não entende? Isso pode ser um 'complexo' em ação – um conjunto de emoções e memórias inconscientes que, quando 'ativado', dispara reações fortes. Identificar esses botões emocionais te dá poder para escolher como responder, em vez de reagir no automático, construindo uma vida com mais liberdade."
+    categorias: ["emoções", "padrões", "autocontrole"]
+    palavras_chave: ["gatilhos", "reações", "inconsciente", "liberdade"]
     citacoes:
-      - texto: "Os complexos são pontos nodais da vida psíquica que não podemos abolir sem destruir a psique."
-        autor: "Carl Jung"
-        obra: "A Natureza da Psique"
-        ano: 1946
+      - texto: "Seus botões emocionais são convites para a cura. Ouça o que eles te contam."
+        autor: "Porto Psicanálise"
+        obra: null
+        ano: null
     perguntas:
-      - "Quais temas ou situações desencadeiam reações emocionais desproporcionais em você?"
+      - "Quais situações no seu dia a dia 'apertam seus botões'?"
+      - "Seus 'botões' atuais te lembram de algo do passado?"
     dicas:
-      - "Quando uma situação gera uma reação emocional intensa e desproporcional, provavelmente tocou em um complexo."
+      - "Quando sentir uma reação forte, pause e pergunte: 'O que realmente está acontecendo aqui?'"
 
-  - nome: "Anima/Animus"
-    descricao_curta: "Componentes contrassexuais na psique."
-    descricao: "Na teoria junguiana, a Anima representa o componente feminino inconsciente na psique masculina, enquanto o Animus representa o componente masculino inconsciente na psique feminina. São arquétipos que atuam como ponte para o inconsciente coletivo e influenciam as relações interpessoais."
-    categorias: ["teoria_junguiana", "arquétipos"]
-    palavras_chave: ["contrassexual", "projeção", "relacionamentos", "inconsciente"]
+  - nome: "Seu Lado Feminino e Masculino"
+    descricao_curta: "Encontrando o equilíbrio dentro de você."
+    descricao: "Independentemente do seu gênero, todos nós temos energias que podemos chamar de 'feminina' (intuição, acolhimento) e 'masculina' (ação, assertividade) dentro da nossa psique. Equilibrar essas forças internas te ajuda a se sentir mais completo, autêntico e a se relacionar com mais harmonia com o mundo e com quem você ama. É uma dança de opostos que te leva ao centro do seu ser."
+    categorias: ["autoconhecimento", "equilíbrio", "identidade"]
+    palavras_chave: ["equilíbrio", "energia", "autenticidade", "integração"]
     citacoes:
-      - texto: "A anima não é apenas a alma no sentido dogmático, nem uma anima rationalis, que é um conceito filosófico, mas sim um arquétipo natural que soma satisfatoriamente todas as afirmações do inconsciente, da mente primitiva, da história da linguagem e da religião."
-        autor: "Carl Jung"
-        obra: "Arquétipos e o Inconsciente Coletivo"
-        ano: 1934
+      - texto: "A força reside no equilíbrio dos opostos dentro de você."
+        autor: "Porto Psicanálise"
+        obra: null
+        ano: null
     perguntas:
-      - "Como os aspectos contrassexuais da sua personalidade se manifestam?"
-      - "De que forma suas escolhas amorosas refletem projeções da sua anima/animus?"
+      - "Qual 'energia' você sente que precisa nutrir mais na sua vida hoje?"
+      - "Como você expressa sua força e sua delicadeza no mundo?"
     dicas:
-      - "Integrar aspectos da anima/animus pode levar a relacionamentos mais saudáveis e uma personalidade mais completa."
+      - "Explore atividades que te conectam com lados seus que você costuma deixar de lado."
 
-  - nome: "Narcisismo"
-    descricao_curta: "Investimento libidinal no ego."
-    descricao: "O narcisismo refere-se ao investimento da libido no ego. Freud distinguiu entre narcisismo primário (normal no desenvolvimento infantil) e secundário (retirada da libido de objetos externos e redirecionamento para o ego). O conceito é fundamental para compreender tanto o desenvolvimento normal quanto patologias como o transtorno narcísico."
-    categorias: ["conceitos_freudianos", "desenvolvimento"]
-    palavras_chave: ["ego", "libido", "autoimagem", "patologia"]
+  - nome: "O Equilíbrio do Amor-Próprio"
+    descricao_curta: "Encontrando a medida certa entre cuidar de si e do outro."
+    descricao: "Cuidar de si não é egoísmo, é fundamental! O 'narcisismo saudável' é sobre se valorizar e reconhecer suas necessidades. O desafio é encontrar o equilíbrio para não se esquecer do outro, nem se anular por ele. Cultivar um amor-próprio forte e flexível te permite construir relações mais justas, reais e bonitas, começando pela mais importante: a relação com você mesmo."
+    categorias: ["autoconhecimento", "relacionamentos", "bem_estar"]
+    palavras_chave: ["amor_próprio", "equilíbrio", "relações", "autocuidado"]
     citacoes:
-      - texto: "O narcisismo é o complemento libidinal do egoísmo do instinto de autopreservação."
-        autor: "Sigmund Freud"
-        obra: "Sobre o Narcisismo: Uma Introdução"
-        ano: 1914
+      - texto: "Seu relacionamento mais longo é consigo mesmo. Invista nele com carinho."
+        autor: "Porto Psicanálise"
+        obra: null
+        ano: null
     perguntas:
-      - "Como você lida com críticas ou falhas pessoais?"
-      - "Que papel o reconhecimento externo desempenha na sua autoimagem?"
+      - "Onde você coloca a sua energia hoje: mais em si ou mais no outro?"
+      - "Como você reage quando suas necessidades não são atendidas?"
     dicas:
-      - "Desenvolver autocompaixão e empatia pelos outros pode ajudar a equilibrar tendências narcísicas."
+      - "Defina 3 pequenas coisas que você pode fazer por si mesmo todos os dias."
 
-  - nome: "Pulsão de Morte"
-    descricao_curta: "Tendência à destruição e retorno ao inorgânico."
-    descricao: "A pulsão de morte (Thanatos) é o conceito freudiano que descreve a tendência dos organismos vivos a retornar ao estado inorgânico. Manifesta-se como agressividade, autodestrutividade ou compulsão à repetição. Contrapõe-se à pulsão de vida (Eros)."
-    categorias: ["conceitos_freudianos", "pulsões"]
-    palavras_chave: ["Thanatos", "destrutividade", "agressão", "repetição"]
+  - nome: "Transformando a Dor em Força"
+    descricao_curta: "Enfrentando impulsos desafiadores e canalizando sua energia."
+    descricao: "Às vezes, sentimos impulsos que parecem 'escuros' – raiva, frustração, uma vontade de 'quebrar' coisas (ou situações). Em vez de reprimir, a psicanálise nos convida a entender essa energia e transformá-la em algo produtivo. Canalizar essa força em arte, esporte ou projetos te ajuda a construir, em vez de destruir, encontrando poder onde parecia haver só caos."
+    categorias: ["emoções", "transformação", "superação"]
+    palavras_chave: ["energia", "raiva", "transformação", "criação"]
     citacoes:
-      - texto: "Além do instinto para preservar a substância viva e juntá-la em unidades cada vez maiores, deveria haver um outro instinto contrário, que busca dissolver essas unidades e conduzi-las de volta ao seu estado primordial, inorgânico."
-        autor: "Sigmund Freud"
-        obra: "Além do Princípio do Prazer"
-        ano: 1920
+      - texto: "Até o caos pode ser matéria-prima para a obra-prima da sua vida."
+        autor: "Porto Psicanálise"
+        obra: null
+        ano: null
     perguntas:
-      - "Onde você percebe comportamentos autodestrutivos em sua vida?"
-      - "Como a agressividade se manifesta em você?"
+      - "Como você expressa sua raiva ou frustração hoje?"
+      - "Em qual área da sua vida você pode transformar a energia 'difícil' em ação positiva?"
     dicas:
-      - "Reconhecer impulsos destrutivos é o primeiro passo para canalizá-los de maneira construtiva."
+      - "Encontre uma atividade física ou criativa que te permita liberar energia de forma saudável."
 
-  - nome: "Princípio de Realidade"
-    descricao_curta: "Adiamento da satisfação imediata."
-    descricao: "O princípio de realidade representa a capacidade psíquica de adiar a gratificação imediata (princípio de prazer) em favor de benefícios futuros, considerando as restrições da realidade externa. É uma função do ego que se desenvolve gradualmente durante a maturação psíquica."
-    categorias: ["conceitos_freudianos", "ego"]
-    palavras_chave: ["gratificação", "adiamento", "maturidade", "ego"]
+  - nome: "A Arte de Esperar"
+    descricao_curta: "Cultivando paciência para colher futuros incríveis."
+    descricao: "Vivemos na era do 'tudo pra ontem', mas a vida nos ensina que as coisas que mais valem a pena geralmente levam tempo. O 'princípio de realidade' é essa capacidade mágica de adiar a gratificação imediata por um bem maior lá na frente. É sobre construir pontes para os seus sonhos, com maturidade e foco, confiando que a espera faz parte da colheita."
+    categorias: ["crescimento_pessoal", "paciência", "foco"]
+    palavras_chave: ["espera", "sonhos", "metas", "maturidade"]
     citacoes:
-      - texto: "O princípio de realidade não abandona a intenção de obter prazer, mas exige e efetua o adiamento da satisfação, a renúncia a várias possibilidades desta e a aceitação temporária do desprazer, num longo desvio para o prazer."
-        autor: "Sigmund Freud"
-        obra: "Formulações sobre os Dois Princípios do Funcionamento Mental"
-        ano: 1911
+      - texto: "A paciência cultiva os frutos mais doces da vida."
+        autor: "Porto Psicanálise"
+        obra: null
+        ano: null
     perguntas:
-      - "Como você equilibra a busca de gratificação imediata com objetivos de longo prazo?"
-      - "Em quais áreas da vida você tem mais dificuldade em adiar a gratificação?"
+      - "Qual grande sonho você está construindo com paciência hoje?"
+      - "Em que área da sua vida você pode praticar mais a arte de esperar e confiar?"
     dicas:
-      - "Desenvolver a capacidade de tolerar a frustração é essencial para o amadurecimento psíquico."
+      - "Celebre cada pequeno passo na direção dos seus objetivos de longo prazo."
 
-  - nome: "Sublimação"
-    descricao_curta: "Redirecionamento de impulsos para fins socialmente valorizados."
-    descricao: "A sublimação é um mecanismo de defesa maduro onde impulsos instintivos potencialmente problemáticos são redirecionados para atividades socialmente aceitas e valorizadas. Freud considerava a sublimação essencial para o desenvolvimento cultural e civilizatório."
-    categorias: ["conceitos_freudianos", "mecanismos_de_defesa"]
-    palavras_chave: ["criatividade", "cultura", "impulsos", "adaptação"]
+  - nome: "Transformando Energia em Arte"
+    descricao_curta: "Canalizando seus desejos e impulsos em criatividade."
+    descricao: "Sabe aquela energia extra que surge quando você está inspirado, apaixonado ou até frustrado? Essa é a força que te convida a criar! A 'sublimação' é essa capacidade incrível de transformar impulsos intensos em algo belo, produtivo e significativo – seja na arte, no trabalho, em um hobby. É encontrar uma saída criativa para tudo que pulsa dentro de você."
+    categorias: ["criatividade", "emoções", "expressão"]
+    palavras_chave: ["criatividade", "paixão", "expressão", "arte"]
     citacoes:
-      - texto: "A sublimação do instinto é um aspecto particularmente evidente do desenvolvimento cultural; é ela que torna possível às atividades psíquicas superiores, científicas, artísticas ou ideológicas, desempenharem um papel tão importante na vida civilizada."
-        autor: "Sigmund Freud"
-        obra: "O Mal-Estar na Civilização"
-        ano: 1930
+      - texto: "Sua alma é um vulcão de energia criativa. Permita-se explodir em beleza."
+        autor: "Porto Psicanálise"
+        obra: null
+        ano: null
     perguntas:
-      - "Como você canaliza seus impulsos primitivos em atividades construtivas?"
-      - "Que formas de expressão criativa ressoam mais com você?"
+      - "Que atividade te faz sentir que você está 'canalizando' sua energia de forma positiva?"
+      - "Como você pode dar mais espaço para a criatividade no seu dia a dia?"
     dicas:
-      - "Encontrar canais criativos para expressar impulsos pode ser terapêutico e produtivo."
+      - "Experimente uma nova forma de se expressar, sem regras ou expectativas: dança, pintura, escrita livre."
 
-  - nome: "Attachment (Apego)"
-    descricao_curta: "Vínculo emocional entre indivíduos."
-    descricao: "A teoria do apego, desenvolvida por John Bowlby e expandida por Mary Ainsworth, descreve o vínculo emocional entre criança e cuidador. Estabelece que os padrões de apego formados na infância influenciam significativamente os relacionamentos e a saúde mental ao longo da vida."
-    categorias: ["desenvolvimento", "vinculação"]
-    palavras_chave: ["vínculo", "relacionamentos", "infância", "segurança"]
+  - nome: "A Base dos Seus Vínculos"
+    descricao_curta: "Como suas primeiras relações moldam seu jeito de amar hoje."
+    descricao: "Nossa forma de amar e nos conectar com os outros começa a ser desenhada nos primeiros vínculos que formamos, lá na infância. Essa 'base de apego' influencia a segurança, a confiança e a intimidade que buscamos (e criamos) nos relacionamentos adultos. Entender essa base é essencial para construir conexões mais seguras, profundas e satisfatórias hoje."
+    categorias: ["relacionamentos", "infância", "vínculos"]
+    palavras_chave: ["apego", "vínculos", "infância", "confiança"]
     citacoes:
-      - texto: "O comportamento de apego é qualquer forma de comportamento que resulta em uma pessoa alcançar ou manter proximidade com algum outro indivíduo claramente identificado, considerado mais apto para lidar com o mundo."
-        autor: "John Bowlby"
-        obra: "Apego e Perda, Vol. 1: Apego"
-        ano: 1969
+      - texto: "A forma como amamos hoje é um reflexo suave das nossas primeiras histórias."
+        autor: "Porto Psicanálise"
+        obra: null
+        ano: null
     perguntas:
-      - "Qual é seu estilo predominante de apego nas relações íntimas?"
-      - "Como suas experiências precoces moldaram sua capacidade de formar vínculos seguros?"
+      - "Você se sente seguro para ser você mesmo em seus relacionamentos importantes?"
+      - "Que tipo de parceiro ou amigo te ajuda a sentir-se mais seguro para amar?"
     dicas:
-      - "Reconhecer seu estilo de apego pode ajudar a desenvolver relacionamentos mais saudáveis."
+      - "Explore seus padrões de relacionamento com um olhar gentil. Eles contam a história do seu coração."
 
-  - nome: "Holding"
-    descricao_curta: "Sustentação emocional no desenvolvimento."
-    descricao: "Conceito winnicottiano que se refere ao suporte físico e emocional proporcionado pelo ambiente (principalmente a mãe) à criança em desenvolvimento. O holding adequado permite que o bebê desenvolva um sentido integrado de self e capacidade para estar sozinho."
-    categorias: ["winnicott", "desenvolvimento"]
-    palavras_chave: ["cuidado", "maternagem", "ambiente", "integração"]
+  - nome: "O Abraço que Cura"
+    descricao_curta: "Nutrindo a segurança e o carinho que você precisa."
+    descricao: "Todos nós precisamos nos sentir 'segurados' – amados, cuidados e seguros. Esse 'holding', que idealmente recebemos na infância, continua sendo vital na vida adulta. Podemos encontrar esse abraço que cura em amigos, parceiros, família ou, crucialmente, em nós mesmos. Aprender a se auto-acolher é um dos maiores presentes que você pode se dar no caminho do bem-estar."
+    categorias: ["bem_estar", "autocuidado", "segurança"]
+    palavras_chave: ["cuidado", "segurança", "acolhimento", "bem_estar"]
     citacoes:
-      - texto: "Holding é uma forma do amor se expressar. Segurar uma criança adequadamente é acompanhar o movimento de seus braços e pernas, e isso significa que a criança está descobrindo o seu ritmo pessoal."
-        autor: "Donald Winnicott"
-        obra: "Os Bebês e suas Mães"
-        ano: 1987
+      - texto: "O abraço mais forte é aquele que você dá em si mesmo."
+        autor: "Porto Psicanálise"
+        obra: null
+        ano: null
     perguntas:
-      - "Como você experimenta a necessidade de holding emocional na vida adulta?"
-      - "Que ambientes ou pessoas proporcionam a você uma sensação de sustentação emocional?"
+      - "O que te faz sentir mais seguro e amado no seu dia a dia?"
+      - "Como você pode se 'segurar' emocionalmente em momentos difíceis?"
     dicas:
-      - "Criar espaços seguros para si mesmo pode replicar a função do holding na vida adulta."
+      - "Crie um ritual de autocuidado que te faça sentir nutrido e seguro, como um banho quente ou meditação."
 
-  - nome: "Self Verdadeiro e Falso"
-    descricao_curta: "Expressões autênticas versus adaptativas do self."
-    descricao: "Winnicott distinguiu entre o self verdadeiro (espontâneo, criativo, sentido como real) e o falso self (defensivo, complacente, adaptado excessivamente às expectativas externas). O falso self desenvolve-se quando o ambiente falha em responder adequadamente às necessidades da criança."
-    categorias: ["winnicott", "desenvolvimento"]
-    palavras_chave: ["autenticidade", "adaptação", "desenvolvimento", "defesa"]
+  - nome: "Seu Brilho Autêntico"
+    descricao_curta: "Abrindo espaço para quem você realmente é, sem máscaras."
+    descricao: "Existe você e existe a 'versão' que você mostra para agradar ou se proteger. O 'self verdadeiro' é a sua essência espontânea e autêntica, que pulsa quando você se sente seguro para ser vulnerável. O 'falso self' são as máscaras que usamos. A jornada é integrar essas partes, encontrando o equilíbrio para brilhar com sua luz própria, sem medo de ser quem você nasceu para ser."
+    categorias: ["autenticidade", "autoconhecimento", "identidade"]
+    palavras_chave: ["autenticidade", "máscaras", "ser_você", "essência"]
     citacoes:
-      - texto: "O self verdadeiro vem da vitalidade dos tecidos corporais e da atuação das funções do corpo, incluindo a ação do coração e a respiração."
-        autor: "Donald Winnicott"
-        obra: "Distorção do Ego em Termos de Self Verdadeiro e Falso"
-        ano: 1960
+      - texto: "Sua essência não precisa de aplausos, apenas de espaço para ser."
+        autor: "Porto Psicanálise"
+        obra: null
+        ano: null
     perguntas:
-      - "Em quais situações você se sente mais autêntico versus quando se sente 'representando um papel'?"
-      - "Como você reconhece a diferença entre suas respostas genuínas e aquelas que são meras adaptações?"
+      - "Em quais situações você sente que pode ser 100% você?"
+      - "Que máscara você sente que usa com mais frequência?"
     dicas:
-      - "Momentos de espontaneidade e criatividade são expressões do self verdadeiro."
+      - "Busque momentos de espontaneidade e liberdade para reconectar com seu self verdadeiro."
 
-  - nome: "Espaço Potencial"
-    descricao_curta: "Área intermediária da experiência."
-    descricao: "O espaço potencial, conceito winnicottiano, é a área intermediária de experiência entre o mundo interno subjetivo e a realidade externa compartilhada. É onde ocorrem o brincar, a experiência cultural e a criatividade, sendo fundamental para o desenvolvimento saudável."
-    categorias: ["winnicott", "criatividade"]
-    palavras_chave: ["transicional", "criatividade", "brincar", "cultura"]
+  - nome: "O Espaço Mágico da Criação"
+    descricao_curta: "Onde a imaginação encontra a liberdade para brincar."
+    descricao: "Existe um lugar especial dentro de você – um 'espaço potencial' – onde a imaginação é livre, a criatividade floresce e você pode brincar sem medo de julgamento. É nesse espaço entre o sonho e a realidade que nascem as ideias mais incríveis, as soluções mais originais e a alegria de se expressar. Nutrir esse espaço é essencial para o bem-estar e para manter a alma leve."
+    categorias: ["criatividade", "imaginação", "bem_estar"]
+    palavras_chave: ["criatividade", "liberdade", "brincar", "imaginação"]
     citacoes:
-      - texto: "É no brincar, e somente no brincar, que o indivíduo, criança ou adulto, pode ser criativo e utilizar sua personalidade integral: e é somente sendo criativo que o indivíduo descobre o eu (self)."
-        autor: "Donald Winnicott"
-        obra: "O Brincar e a Realidade"
-        ano: 1971
+      - texto: "No espaço da sua imaginação, a alma encontra sua morada mais livre."
+        autor: "Porto Psicanálise"
+        obra: null
+        ano: null
     perguntas:
-      - "Como você cultiva espaços de criatividade e brincadeira em sua vida adulta?"
-      - "Onde você encontra maior liberdade para expressar sua imaginação?"
+      - "Qual atividade te transporta para um lugar de pura liberdade e criação?"
+      - "Como você pode criar mais 'espaço' na sua rotina para a espontaneidade e o brincar?"
     dicas:
-      - "Reservar tempo para atividades sem propósito definido pode nutrir o espaço potencial e a criatividade."
+      - "Reserve um tempo sem agenda ou objetivo. Apenas permita-se ser e criar o que vier."
 
-  - nome: "Repetição Compulsiva"
-    descricao_curta: "Padrão inconsciente de repetição."
-    descricao: "A compulsão à repetição é um processo psicológico inconsciente em que o indivíduo repete situações traumáticas ou dolorosas do passado. Freud identificou esse fenômeno como manifestação da pulsão de morte e tentativa do aparelho psíquico de elaborar experiências não processadas."
-    categorias: ["conceitos_freudianos", "trauma"]
-    palavras_chave: ["trauma", "padrão", "inconsciente", "elaboração"]
+  - nome: "Quebrando os Ciclos Repetitivos"
+    descricao_curta: "Identificando padrões que se repetem e encontrando novos caminhos."
+    descricao: "Já percebeu que certas situações ou tipos de relacionamentos se repetem na sua vida, como se você estivesse preso em um 'loop'? Essa 'repetição compulsiva' é a forma do inconsciente tentar 'resolver' algo do passado. Reconhecer esses ciclos, sem se culpar, é o primeiro passo para parar de repeti-los e abrir espaço para novas experiências e finais diferentes."
+    categorias: ["padrões", "superação", "autoconhecimento"]
+    palavras_chave: ["padrões", "ciclos", "passado", "transformação"]
     citacoes:
-      - texto: "O paciente não recorda nada do que esqueceu e reprimiu, mas expressa-o pela atuação. Ele o reproduz não como lembrança, mas como ação; repete-o, sem saber que o está repetindo."
-        autor: "Sigmund Freud"
-        obra: "Recordar, Repetir e Elaborar"
-        ano: 1914
+      - texto: "Você não está preso nos seus padrões. Apenas precisa acender a luz para enxergar a saída."
+        autor: "Porto Psicanálise"
+        obra: null
+        ano: null
     perguntas:
-      - "Quais padrões você percebe repetindo em diferentes relacionamentos ao longo da vida?"
-      - "Como situações dolorosas do seu passado podem estar influenciando suas escolhas atuais?"
+      - "Qual padrão de relacionamento você percebe que se repete na sua vida?"
+      - "Se você pudesse mudar um 'loop' na sua história, qual seria?"
     dicas:
-      - "Reconhecer padrões repetitivos é o primeiro passo para interromper ciclos disfuncionais."
+      - "Anote os momentos em que você sente que está repetindo algo do passado. A consciência é libertadora."
 
-  - nome: "Objeto Transicional"
-    descricao_curta: "Primeira possessão 'não-eu' da criança."
-    descricao: "O objeto transicional, conceito de Winnicott, é a primeira possessão 'não-eu' da criança (como um cobertor ou ursinho) que representa a transição do estado de fusão com a mãe para o relacionamento com objetos externos. Ajuda a criança a negociar separação e independência."
-    categorias: ["winnicott", "desenvolvimento"]
-    palavras_chave: ["transição", "separação", "apego", "desenvolvimento"]
+  - nome: "O Conforto nas Transições"
+    descricao_curta: "Pequenas âncoras de segurança em momentos de mudança."
+    descricao: "Passar por mudanças (grandes ou pequenas) pode ser desafiador. Nesses momentos, ter algo que te traz conforto e segurança – um objeto especial, um ritual, uma memória – pode ser um porto seguro. Esses 'objetos transicionais' nos lembram que, mesmo no meio da mudança, existe uma parte nossa que se sente segura e amada. Cultive suas âncoras de conforto!"
+    categorias: ["transições", "conforto", "segurança"]
+    palavras_chave: ["conforto", "mudança", "segurança", "bem_estar"]
     citacoes:
-      - texto: "O objeto transicional representa a transição do bebê de um estado de estar fundido com a mãe para um estado de relacionamento com ela como algo externo e separado."
-        autor: "Donald Winnicott"
-        obra: "Objetos Transicionais e Fenômenos Transicionais"
-        ano: 1953
+      - texto: "Em meio à mudança, encontre sua âncora de calma e conforto."
+        autor: "Porto Psicanálise"
+        obra: null
+        ano: null
     perguntas:
-      - "Você tinha algum objeto de apego especial na infância?"
-      - "Quais 'objetos transicionais' você utiliza na vida adulta para lidar com a separação ou ansiedade?"
+      - "Qual objeto, ritual ou memória te traz conforto em momentos de incerteza?"
+      - "Como você cuida de si mesmo durante as transições da vida?"
     dicas:
-      - "Mesmo na vida adulta, certos objetos ou rituais podem servir como fontes de conforto em momentos de transição."
+      - "Crie um pequeno ritual diário que te traga uma sensação de segurança e continuidade."
 
-  - nome: "Projeção"
-    descricao_curta: "Atribuição a outros de características próprias."
-    descricao: "A projeção é um mecanismo de defesa pelo qual o indivíduo atribui a outras pessoas qualidades, sentimentos, desejos ou objetos que se originam em si mesmo, mas são inaceitáveis para o ego. É particularmente importante na formação da sombra junguiana e em fenômenos paranoides."
-    categorias: ["mecanismos_de_defesa", "teoria_junguiana"]
-    palavras_chave: ["defesa", "sombra", "inconsciente", "atribuição"]
+  - nome: "Seu Espelho nos Outros"
+    descricao_curta: "O que você critica fora, pode ser um convite para olhar dentro."
+    descricao: "É mais fácil ver nos outros o que não aceitamos em nós, né? Essa 'projeção' acontece quando 'colocamos' no outro sentimentos ou características nossas que não queremos reconhecer. Quando algo em alguém te irrita muito, pode ser que essa pessoa esteja apenas te mostrando um lado seu que você ainda não acolheu. Olhar para isso com coragem é um passo gigante no autoconhecimento."
+    categorias: ["autoconhecimento", "relacionamentos", "aceitação"]
+    palavras_chave: ["projeção", "espelho", "aceitação", "sombra"]
     citacoes:
-      - texto: "O que negamos em nós mesmos, terminamos por encontrar nos outros. Que conveniente coincidência!"
-        autor: "Carl Jung"
-        obra: "Psicologia e Religião"
-        ano: 1938
+      - texto: "O que você vê no outro é uma janela para o seu próprio mundo interior."
+        autor: "Porto Psicanálise"
+        obra: null
+        ano: null
     perguntas:
-      - "Quais qualidades ou características você tende a criticar fortemente nos outros?"
-      - "Como suas críticas aos outros podem refletir aspectos não reconhecidos de si mesmo?"
+      - "Qual crítica você faz com frequência aos outros?"
+      - "O que acontece dentro de você quando você se sente julgado?"
     dicas:
-      - "Quando algo te incomoda intensamente em outra pessoa, pergunte-se se há algum aspecto desse comportamento em você mesmo."
+      - "Quando for criticar alguém, pause e pergunte: 'Essa crítica diz algo sobre mim?'"
 
-  - nome: "Introjeção"
-    descricao_curta: "Incorporação de características externas."
-    descricao: "A introjeção é um processo psicológico pelo qual o indivíduo incorpora no seu ego características, atitudes ou qualidades de outras pessoas significativas, especialmente figuras parentais. É fundamental na formação do superego e na internalização de normas sociais."
-    categorias: ["mecanismos_de_defesa", "desenvolvimento"]
-    palavras_chave: ["internalização", "identificação", "ego", "superego"]
+  - nome: "As Vozes que Carregamos"
+    descricao_curta: "As crenças dos outros que você adotou como suas."
+    descricao: "Sabia que muitas das nossas crenças e valores não são 'nossos' de verdade, mas vêm de pessoas importantes na nossa vida, especialmente na infância? Essa 'introjeção' acontece quando 'absorvemos' as vozes dos outros como se fossem a nossa. Questionar essas vozes com carinho é essencial para descobrir quem você realmente é e construir uma identidade autêntica, alinhada com a sua verdade interior."
+    categorias: ["identidade", "autoconhecimento", "liberdade"]
+    palavras_chave: ["crenças", "valores", "identidade", "liberdade"]
     citacoes:
-      - texto: "O superego é o herdeiro do complexo de Édipo, formando-se pela introjeção das figuras parentais no ego."
-        autor: "Sigmund Freud"
-        obra: "O Ego e o Id"
-        ano: 1923
+      - texto: "Sua verdade não grita, ela sussurra. Ouça a sua própria voz com carinho."
+        autor: "Porto Psicanálise"
+        obra: null
+        ano: null
     perguntas:
-      - "Quais valores ou crenças você adotou de figuras importantes em sua vida?"
-      - "Como você distingue entre seus próprios desejos e expectativas internalizadas dos outros?"
+      - "Qual crença 'automática' você tem sobre si mesmo ou sobre o mundo?"
+      - "Se você pudesse escolher suas próprias crenças, quais seriam?"
     dicas:
-      - "Questionar a origem de suas crenças e valores pode ajudar a identificar introjeções limitantes."
+      - "Desafie uma crença antiga sobre você mesmo. Veja o que acontece."
+
+  - nome: "A Onda da Ansiedade"
+    descricao_curta: "Navegando pelas águas turbulentas do medo e da incerteza."
+    descricao: "A ansiedade é uma onda que todos nós surfamos em algum momento – antes de um desafio, em momentos de incerteza... É uma resposta natural do corpo. Mas quando essa onda se torna um tsunami, paralisando e roubando a paz, é um sinal de que algo precisa de atenção. Aprender a identificar e acolher a ansiedade, em vez de lutar contra ela, é o primeiro passo para encontrar a calma no meio da tempestade."
+    categorias: ["saúde_mental", "emoções", "bem_estar"]
+    palavras_chave: ["ansiedade", "medo", "calma", "acolhimento"]
+    citacoes:
+      - texto: "A ansiedade é uma mensageira. Ouça o que ela tem a te dizer sobre você."
+        autor: "Porto Psicanálise"
+        obra: null
+        ano: null
+    perguntas:
+      - "Quais situações ativam sua ansiedade mais forte?"
+      - "Que pequena prática te ajuda a encontrar um porto seguro quando a ansiedade chega?"
+    dicas:
+      - "Sinta seus pés no chão. Respire fundo 3 vezes. Traga sua mente para o agora."
+
+  - nome: "Costurando As Marcas da Alma"
+    descricao_curta: "Transformando as dores do passado em resiliência e cura."
+    descricao: "A vida nos deixa marcas, cicatrizes invisíveis de experiências dolorosas. O 'trauma' não é o evento em si, mas o impacto que ele teve na sua alma. Reconhecer essas marcas, com coragem e gentileza, é o primeiro passo para 'costurá-las' com cuidado, transformando dor em força, e encontrando a cura que te permite florescer, apesar do que aconteceu."
+    categorias: ["saúde_mental", "superação", "cura"]
+    palavras_chave: ["trauma", "cura", "resiliência", "força"]
+    citacoes:
+      - texto: "Suas cicatrizes contam a história da sua força. Honre sua jornada."
+        autor: "Porto Psicanálise"
+        obra: null
+        ano: null
+    perguntas:
+      - "Que lição de força você aprendeu com um desafio do passado?"
+      - "Qual pequena atitude você pode ter hoje para cuidar de uma 'cicatriz' da alma?"
+    dicas:
+      - "Preste atenção ao seu corpo. Ele guarda memórias importantes da sua história."
+
+  - nome: "Seu Ritual Sagrado de Cuidado"
+    descricao_curta: "Nutrindo sua alma e corpo com carinho e atenção."
+    descricao: "Em meio à correria do dia a dia, criar um 'ritual de autocuidado' é um ato revolucionário de amor por si mesmo. É dedicar tempo para nutrir seu corpo, acalmar sua mente e honrar suas emoções. Pode ser algo simples como tomar um café em silêncio, meditar 5 minutos ou dar um passeio na natureza. Cuidar de você é a base para cuidar do mundo ao seu redor."
+    categorias: ["bem_estar", "autocuidado", "paz"]
+    palavras_chave: ["autocuidado", "bem_estar", "paz", "equilíbrio"]
+    citacoes:
+      - texto: "Seu corpo é seu templo. Cuide dele com a reverência que ele merece."
+        autor: "Porto Psicanálise"
+        obra: null
+        ano: null
+    perguntas:
+      - "Qual pequeno ritual de autocuidado você pode adicionar ao seu dia hoje?"
+      - "Como você sente que sua energia muda quando você dedica tempo para si?"
+    dicas:
+      - "Comece com 5 minutos de pura presença, fazendo algo que te nutre."
+
+  - nome: "A Dança dos Relacionamentos"
+    descricao_curta: "Construindo pontes de respeito, confiança e amor."
+    descricao: "Relacionamentos saudáveis são como uma dança – exigem ritmo, sintonia e respeito pelo espaço do outro. São construídos com comunicação clara, confiança mútua e a liberdade de ser quem você é. Nesses vínculos, há espaço para crescer junto, estabelecer limites com carinho e sentir-se seguro para ser vulnerável. Cultive as relações que nutrem a sua alma!"
+    categorias: ["relacionamentos", "conexão", "respeito"]
+    palavras_chave: ["relações", "conexão", "respeito", "confiança"]
+    citacoes:
+      - texto: "A maior conexão é aquela que te permite ser inteiramente você."
+        autor: "Porto Psicanálise"
+        obra: null
+        ano: null
+    perguntas:
+      - "Quais qualidades você mais valoriza em um relacionamento?"
+      - "Como você expressa gratidão e carinho às pessoas importantes na sua vida?"
+    dicas:
+      - "Pratique ouvir com empatia, buscando realmente entender o mundo do outro."
+
+  - nome: "O Peso da Culpa"
+    descricao_curta: "Aprendendo com os erros, sem se aprisionar a eles."
+    descricao: "A culpa é uma bússola interna que nos mostra quando sentimos que saímos do nosso caminho ou machucamos alguém. Ela pode ser uma ferramenta poderosa para aprender e reparar, mas, quando se torna um fardo pesado demais, nos impede de seguir em frente. Aprender a reconhecer a culpa com gentileza, fazer o que for possível para corrigir e depois se perdoar é essencial para a liberdade e a paz interior."
+    categorias: ["emoções", "aprendizado", "autocompaixão"]
+    palavras_chave: ["culpa", "perdão", "aprendizado", "liberdade"]
+    citacoes:
+      - texto: "A culpa te convida a aprender, não a se punir para sempre."
+        autor: "Porto Psicanálise"
+        obra: null
+        ano: null
+    perguntas:
+      - "Quando você sente que a culpa te ensina, e quando ela te paralisa?"
+      - "O que você pode fazer hoje para liberar um pouco do peso da culpa?"
+    dicas:
+      - "Se houver algo a ser reparado, faça o que estiver ao seu alcance. Depois, respire e se permita seguir."
+
+  - nome: "Seu Valor Inabalável"
+    descricao_curta: "Reconhecendo e celebrando a pessoa incrível que você é."
+    descricao: "Autoestima não é sobre se sentir perfeito o tempo todo, mas sobre reconhecer seu valor inato, aceitar suas humanidades (erros e acertos) e confiar no seu potencial. Uma autoestima forte te dá asas para enfrentar desafios, construir relações saudáveis e brilhar a sua luz. Lembre-se: você é mais do que suficiente, exatamente como é agora."
+    categorias: ["autoconhecimento", "autoaceitação", "confiança"]
+    palavras_chave: ["autoestima", "valor", "confiança", "autenticidade"]
+    citacoes:
+      - texto: "Seu valor não é negociável. Ele simplesmente É."
+        autor: "Porto Psicanálise"
+        obra: null
+        ano: null
+    perguntas:
+      - "O que te faz sentir mais confiante e forte em si mesmo?"
+      - "Como você lida com a autocrítica e os 'dias ruins'?"
+    dicas:
+      - "Liste 3 qualidades que você ama em si mesmo e leia-as todos os dias."
+
+  - nome: "Atravessando o Luto"
+    descricao_curta: "Honrando suas perdas e encontrando o caminho da cura."
+    descricao: "O luto é a travessia que fazemos quando perdemos algo importante – uma pessoa, um relacionamento, um sonho, uma fase da vida. É um processo único, sem mapa ou tempo definido, cheio de ondas de tristeza, saudade, raiva... Permitir-se sentir cada emoção, com paciência e autocompaixão, é honrar o que foi importante e encontrar, aos poucos, a cura que te permite seguir em frente, levando no coração o amor que permanece."
+    categorias: ["emoções", "cura", "perda"]
+    palavras_chave: ["luto", "perda", "tristeza", "cura"]
+    citacoes:
+      - texto: "O luto é o rastro do amor que não se foi."
+        autor: "Porto Psicanálise"
+        obra: null
+        ano: null
+    perguntas:
+      - "Que espaço você tem dado para sentir suas perdas?"
+      - "Qual pequena atitude pode te ajudar a acolher suas emoções hoje?"
+    dicas:
+      - "Permita-se sentir. Não há jeito 'certo' ou 'errado' de passar pelo luto."
+
+  - nome: "A Sua Força Interior"
+    descricao_curta: "Despertando a capacidade de se reerguer após os desafios."
+    descricao: "A vida nos apresenta desafios, mas dentro de você reside uma força incrível – a 'resiliência'. É a sua capacidade de dobrar, mas não quebrar; de aprender com as quedas e encontrar caminhos para seguir em frente, mais forte e mais sábio. Cultivar essa força é sobre nutrir seu otimismo, buscar apoio e lembrar de todas as vezes que você já superou algo difícil. Você é mais forte do que imagina."
+    categorias: ["superação", "força", "crescimento"]
+    palavras_chave: ["resiliência", "superação", "força", "desafios"]
+    citacoes:
+      - texto: "A resiliência não é evitar a tempestade, mas aprender a dançar na chuva."
+        autor: "Porto Psicanálise"
+        obra: null
+        ano: null
+    perguntas:
+      - "Que desafio do passado te mostrou a força que você possui?"
+      - "Quem na sua vida te lembra da sua capacidade de superação?"
+    dicas:
+      - "Lembre-se de uma situação difícil que você superou. Sinta a força que te trouxe até aqui."
+
+  - nome: "Definindo Seu Espaço Sagrado"
+    descricao_curta: "Estabelecendo limites que nutrem seu bem-estar."
+    descricao: "Sua energia, seu tempo e suas emoções são valiosos. Estabelecer 'limites pessoais' é criar fronteiras claras que protegem esse espaço sagrado, ensinando aos outros (e a si mesmo) o que é aceitável nas suas relações. Dizer 'não' com carinho, honrar suas necessidades e comunicar seus limites com clareza é um ato poderoso de amor-próprio e a base para relações de respeito mútuo."
+    categorias: ["relacionamentos", "autocuidado", "respeito"]
+    palavras_chave: ["limites", "respeito", "autocuidado", "fronteiras"]
+    citacoes:
+      - texto: "Limites claros não afastam, eles convidam ao respeito e à conexão real."
+        autor: "Porto Psicanálise"
+        obra: null
+        ano: null
+    perguntas:
+      - "Em qual área da sua vida você sente que precisa dizer mais 'não'?"
+      - "Como você se sente quando seus limites são respeitados?"
+    dicas:
+      - "Comece praticando dizer 'não' a pequenos pedidos que roubam sua energia."
+
+  - nome: "Liberte-se da Codependência"
+    descricao_curta: "Reequilibrando o cuidado: o outro e você."
+    descricao: "Amar e cuidar é lindo, mas quando você se anula para 'salvar' o outro, pode estar em um ciclo de 'codependência'. É focar tanto nas necessidades alheias que se esquece das suas. Quebrar esse ciclo é um ato corajoso de amor-próprio. É aprender a cuidar do outro sem deixar de cuidar de você, construindo relações de igual para igual, onde o bem-estar é compartilhado."
+    categorias: ["relacionamentos", "autocuidado", "equilíbrio"]
+    palavras_chave: ["codependência", "limites", "autocuidado", "equilíbrio"]
+    citacoes:
+      - texto: "Cuidar de si mesmo não é egoísmo, é a base para cuidar dos outros com verdade."
+        autor: "Porto Psicanálise"
+        obra: null
+        ano: null
+    perguntas:
+      - "Você se sente responsável pela felicidade de alguém além de você?"
+      - "Como seria focar em nutrir a sua própria felicidade hoje?"
+    dicas:
+      - "Liste suas 3 maiores necessidades e veja como você pode começar a atendê-las."
+
+  - nome: "Construindo Pontes com Empatia"
+    descricao_curta: "A arte de ouvir com o coração e falar com clareza."
+    descricao: "A 'Comunicação Não-Violenta' é um superpoder para construir relações mais profundas e resolver conflitos com respeito. É sobre aprender a expressar o que você sente (sem culpar), identificar suas necessidades e ouvir o outro com verdadeira empatia. Praticar essa comunicação transforma seus diálogos em pontes de conexão e entendimento mútuo."
+    categorias: ["comunicação", "relacionamentos", "empatia"]
+    palavras_chave: ["comunicação", "empatia", "conexão", "escuta"]
+    citacoes:
+      - texto: "Palavras podem ser muros ou pontes. Escolha construir pontes com o coração."
+        autor: "Porto Psicanálise"
+        obra: null
+        ano: null
+    perguntas:
+      - "Como você reage quando não se sente compreendido?"
+      - "Qual emoção você acha mais difícil expressar com clareza?"
+    dicas:
+      - "Antes de responder, faça uma pausa e tente entender o sentimento por trás das palavras do outro."
+
+  - nome: "A Magia do Agora"
+    descricao_curta: "Despertando para a riqueza do momento presente."
+    descricao: "Em meio ao turbilhão de pensamentos e preocupações, há um refúgio de paz: o momento presente. 'Mindfulness' é a prática de simplesmente ESTAR aqui, agora, com atenção plena e sem julgamento. É notar o cheiro do café, a sensação do vento, a própria respiração... Cultivar essa presença acalma a mente, reduz a ansiedade e revela a beleza simples da vida que está acontecendo AGORA."
+    categorias: ["bem_estar", "paz", "presença"]
+    palavras_chave: ["mindfulness", "presente", "calma", "atenção"]
+    citacoes:
+      - texto: "O maior presente é a sua própria presença no agora."
+        autor: "Porto Psicanálise"
+        obra: null
+        ano: null
+    perguntas:
+      - "Qual pequena atividade do seu dia a dia você pode transformar em um momento de 'mindfulness'?"
+      - "Como seria sentir a vida pulsando em você neste exato instante?"
+    dicas:
+      - "Durante uma tarefa simples (lavar louça, caminhar), foque 100% nas sensações."
+
+  - nome: "Desafiando a Síndrome do Impostor"
+    descricao_curta: "Reconhecendo suas conquistas e abraçando seu valor."
+    descricao: "Você conquista algo incrível, mas uma voz interna sussurra: 'Você não é bom o suficiente', 'Foi sorte'... Essa é a 'síndrome do impostor' – a dúvida que rouba o brilho das suas vitórias. É comum se sentir assim, especialmente quando nos cobramos demais. Desafiá-la é reconhecer suas capacidades, celebrar seus esforços e silenciar essa voz, lembrando que você é digno de todo sucesso que alcança."
+    categorias: ["autoconhecimento", "confiança", "sucesso"]
+    palavras_chave: ["autodúvida", "sucesso", "valor", "conquistas"]
+    citacoes:
+      - texto: "Sua luz não precisa de permissão para brilhar. Você já É sucesso."
+        autor: "Porto Psicanálise"
+        obra: null
+        ano: null
+    perguntas:
+      - "Qual conquista sua você ainda não celebrou de verdade?"
+      - "Como você lida com os elogios que recebe?"
+    dicas:
+      - "Crie um 'diário de conquistas', anotando cada pequena vitória e elogio recebido."
+
+  - nome: "Liberte-se dos Padrões Familiares"
+    descricao_curta: "Reconhecendo a herança emocional e construindo seu próprio caminho."
+    descricao: "Nossas famílias nos deixam uma herança – não só de bens, mas de comportamentos, crenças e formas de lidar com a vida. Esses 'ciclos geracionais' nos moldam, mas não precisam nos definir para sempre. Olhar para a história da sua família com compaixão, reconhecer os padrões que não te servem mais e escolher conscientemente quebrar esses ciclos é um ato poderoso de liberdade e amor, não só por você, mas pelas gerações futuras."
+    categorias: ["família", "padrões", "liberdade"]
+    palavras_chave: ["família", "padrões", "herança", "liberdade"]
+    citacoes:
+      - texto: "Quebrar ciclos dolorosos é um ato de amor que ecoa por gerações."
+        autor: "Porto Psicanálise"
+        obra: null
+        ano: null
+    perguntas:
+      - "Qual padrão de comportamento da sua família você percebe em si mesmo?"
+      - "Se você pudesse deixar uma 'herança emocional' diferente para o futuro, qual seria?"
+    dicas:
+      - "Converse com pessoas mais velhas da sua família. As histórias delas podem te ajudar a entender as suas."
+
+  - nome: "Seu Superpoder Emocional"
+    descricao_curta: "A força de entender e navegar suas emoções com sabedoria."
+    descricao: "Emoções são energia em movimento – elas vêm e vão, trazendo mensagens importantes. Desenvolver sua 'inteligência emocional' é como ter um mapa e uma bússola para navegar nesse mar interno. É saber identificar o que você sente, expressar isso com clareza e entender as emoções de quem está ao seu lado. Esse superpoder te ajuda a construir relações mais profundas, tomar decisões melhores e viver com mais paz interior."
+    categorias: ["emoções", "desenvolvimento", "conexão"]
+    palavras_chave: ["emoções", "inteligência", "empatia", "autocontrole"]
+    citacoes:
+      - texto: "Suas emoções são mensageiras sábias. Ouça-as com atenção e carinho."
+        autor: "Porto Psicanálise"
+        obra: null
+        ano: null
+    perguntas:
+      - "Qual emoção você acha mais fácil (ou mais difícil) de sentir e expressar?"
+      - "Como entender suas emoções muda a forma como você interage com os outros?"
+    dicas:
+      - "Dê um nome para a emoção que você está sentindo agora. Apenas nomeie, sem julgar."
+
+  - nome: "Acendendo Sua Chama Interior"
+    descricao_curta: "Reencontrando a energia e a paixão pela vida."
+    descricao: "Às vezes, a chama interior parece apagar – cansaço extremo, falta de ânimo, sensação de estar 'vazio'... Isso pode ser 'burnout', um sinal do corpo e da alma pedindo uma pausa e um respiro. Reconhecer os sinais de esgotamento é o primeiro passo para reacender a sua luz. Encontre o que te nutre, reabasteça sua energia e lembre-se de que sua vitalidade é seu bem mais precioso."
+    categorias: ["bem_estar", "energia", "autocuidado"]
+    palavras_chave: ["burnout", "esgotamento", "energia", "vitalidade"]
+    citacoes:
+      - texto: "Sua energia é um rio. Permita que ele flua em direção ao bem-estar."
+        autor: "Porto Psicanálise"
+        obra: null
+        ano: null
+    perguntas:
+      - "Quais atividades reacendem sua energia e paixão pela vida?"
+      - "Como você pode criar mais pausas e momentos de descanso no seu dia a dia?"
+    dicas:
+      - "Liste 3 pequenas coisas que te trazem alegria e comece a inseri-las na sua rotina."
+
+  - nome: "O Poder da Autocompaixão"
+    descricao_curta: "Abrace sua humanidade com a mesma gentileza que abraça um amigo."
+    descricao: "Imagine que um amigo querido comete um erro ou está sofrendo. Como você reagiria? Com carinho e apoio, certo? 'Autocompaixão' é direcionar essa mesma gentileza para si mesmo, especialmente nos momentos difíceis. É reconhecer que errar, sofrer e ter imperfeições faz parte da experiência humana. Cultivar essa compaixão interna te liberta da autocrítica e te fortalece para enfrentar qualquer desafio."
+    categorias: ["autocuidado", "gentileza", "aceitação"]
+    palavras_chave: ["autocompaixão", "gentileza", "aceitação", "cuidado"]
+    citacoes:
+      - texto: "Seja seu próprio porto seguro nos dias de tempestade interna."
+        autor: "Porto Psicanálise"
+        obra: null
+        ano: null
+    perguntas:
+      - "Como você costuma falar consigo mesmo quando algo dá errado?"
+      - "O que aconteceria se você substituísse a autocrítica por autocompaixão hoje?"
+    dicas:
+      - "Quando se pegar criticando, pause e pergunte: 'O que eu diria a um amigo nessa situação?'"
+
+  - nome: "Encontrando Conexão na Solidão"
+    descricao_curta: "Como transformar o sentir-se só em um convite para se reconectar."
+    descricao: "Sentir-se sozinho, mesmo rodeado de pessoas, é uma experiência humana profunda. A 'solidão' pode ser dolorosa, mas também é um convite para olhar para dentro e buscar conexões mais reais e significativas – com o mundo, com os outros, e principalmente, consigo mesmo. Reconhecer esse sentimento com coragem é o primeiro passo para encontrar o pertencimento que você anseia."
+    categorias: ["emoções", "conexão", "pertencimento"]
+    palavras_chave: ["solidão", "conexão", "sentimentos", "pertencimento"]
+    citacoes:
+      - texto: "A solidão te convida para o encontro mais importante: com a sua própria alma."
+        autor: "Porto Psicanálise"
+        obra: null
+        ano: null
+    perguntas:
+      - "Quando você se sente mais conectado, e quando a solidão aperta?"
+      - "Que tipo de conexão você busca para se sentir verdadeiramente visto e compreendido?"
+    dicas:
+      - "Busque atividades que te conectem com algo maior, seja a natureza, a arte ou uma comunidade."
+
+  - nome: "Cultivando o Amor-Próprio Genuíno"
+    descricao_curta: "A base sólida para uma vida feliz e relacionamentos saudáveis."
+    descricao: "Amor-próprio não é vaidade, é a base de tudo! É reconhecer seu valor inabalável, aceitar sua história com carinho e fazer escolhas que nutrem sua alma e respeitam seus limites. Cultivar esse amor por quem você é te fortalece para enfrentar a vida de peito aberto, construir relacionamentos de igual para igual e irradiar a luz única que existe em você. Você merece todo o amor do mundo, começando pelo seu."
+    categorias: ["autoconhecimento", "amor_próprio", "bem_estar"]
+    palavras_chave: ["amor_próprio", "autovalor", "aceitação", "cuidado"]
+    citacoes:
+      - texto: "Seu coração é o primeiro lar do amor. Cuide dele com todo carinho do mundo."
+        autor: "Porto Psicanálise"
+        obra: null
+        ano: null
+    perguntas:
+      - "Qual pequena atitude de amor-próprio você pode praticar hoje?"
+      - "O que você admira de verdade na pessoa que você está se tornando?"
+    dicas:
+      - "Substitua um pensamento autocrítico por uma afirmação gentil e real sobre você."
+
+  - nome: "Desarmando Gatilhos Emocionais"
+    descricao_curta: "Entendendo o que te abala e escolhendo reagir com mais calma."
+    descricao: "Sabe aquelas situações ou palavras que te fazem 'explodir' ou reagir de forma intensa? São seus 'gatilhos emocionais', atalhos que a mente usa, muitas vezes ligados a dores antigas. Identificá-los, com curiosidade e sem julgamento, te dá a chance de pausar antes de reagir. Nesse pequeno espaço entre o gatilho e a resposta, reside a sua liberdade de escolher reagir com mais calma, consciência e amor por si mesmo."
+    categorias: ["emoções", "autocontrole", "autoconhecimento"]
+    palavras_chave: ["gatilhos", "reações", "emoções", "pausa"]
+    citacoes:
+      - texto: "Entre o que te acontece e sua resposta, há um universo de escolha. Respire."
+        autor: "Porto Psicanálise"
+        obra: null
+        ano: null
+    perguntas:
+      - "Qual situação ou conversa costuma 'ativar' seus gatilhos?"
+      - "Como você pode criar um espaço de pausa antes de reagir a um gatilho?"
+    dicas:
+      - "Quando sentir um gatilho, feche os olhos por 3 segundos e foque apenas na sua respiração."
+
+  - nome: "Liberte-se da Busca Pela Perfeição"
+    descricao_curta: "Abraçando sua humanidade e celebrando o 'bom o suficiente'."
+    descricao: "Buscar a 'perfeição' pode ser uma armadilha sutil, disfarçada de ambição. Essa cobrança excessiva por resultados impecáveis muitas vezes esconde o medo de falhar e gera ansiedade. Liberte-se dessa busca implacável! Abraçar o 'bom o suficiente', celebrar seus progressos (em vez de focar no que falta) e reconhecer sua humanidade é um ato de amor-próprio que te permite viver com mais leveza e real alegria."
+    categorias: ["autoconhecimento", "aceitação", "liberdade"]
+    palavras_chave: ["perfeccionismo", "autocrítica", "aceitação", "liberdade"]
+    citacoes:
+      - texto: "A beleza está na sua autenticidade, não em uma perfeição que não existe."
+        autor: "Porto Psicanálise"
+        obra: null
+        ano: null
+    perguntas:
+      - "Em qual área da sua vida você sente que a 'perfeição' te impede de começar (ou terminar)?"
+      - "O que seria 'bom o suficiente' para você hoje?"
+    dicas:
+      - "Celebre cada pequeno passo na direção dos seus objetivos, por menor que pareça."
